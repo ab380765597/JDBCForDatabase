@@ -40,7 +40,6 @@ public class HelloJava {
 		    	 System.out.println("For locale? y/n");
 		    	 String sc = in.nextLine();
 		    	 if(sc.equals("y")||sc.equals("Y")){
-		    		 //sql= readLocaleFile(fileName, stmt, con);
 		    		 sql = readLocaleFile(fileName, stmt, con);
 		    	 }else{
 		    		 //sql = readFile(fileName, stmt, con);//Caution! would work immediately.
@@ -69,22 +68,6 @@ public class HelloJava {
 		}
 	}
 	
-	/*public static String generateTurkishString() throws IOException {
-        InputStream isr = new FileInputStream("C:/Users/xi.zhang/workspace/HelloWorld/src/test1.txt");
-
-        BufferedReader in = new BufferedReader(new InputStreamReader(isr,"UTF8"));
-        String str;
-        PrintWriter writer = new PrintWriter("C:/Users/xi.zhang/workspace/HelloWorld/src/the-file-name.txt");
-        while ((str = in.readLine()) != null) {
-            System.out.println(str);
-            writer.println(str);
-           // System.out.println("haha");
-        }
-
-        in.close();
-        writer.close();
-        return str;
-    }*/
 	
 	private static void updateToDB(String sql, Statement stmt, Connection con) throws SQLException{
 		stmt = con.createStatement();
@@ -157,7 +140,6 @@ public class HelloJava {
 		        			}
 		        			stringcontent = line.substring(i+1, j);
 		        			System.out.println(stringcontent);
-		        			//flag = false;
 	        			}
 	        			twoDotCounter++;
 	        		}
@@ -531,14 +513,6 @@ public class HelloJava {
 		        			twoDotCounter++;
 		        		}
 		        		//============extracting optional description from string=====
-		        		/*if(line.charAt(i)=='(' && twoDotCounter==2 ){
-		        			int j = length-1;
-		        			while(line.charAt(j)!=')' ){
-		        				j--;
-		        			}
-		        			descrp = line.substring(i+1,j);
-		        			System.out.println("Optional Description: "+descrp);
-		        		}*/
 		        		
 		        		if(line.charAt(i)=='{' && SecBflag){
 		        			int j= i+1;
@@ -631,7 +605,6 @@ public class HelloJava {
 	        		continue;
 	        	}
 	        	String sql = "UPDATE words SET "+language+" = '"+checkInput(stringcontent)+"' where string_index = '"+index+"' and template_id = '65';";//careful for the temp_id!!
-	        	
 	        	//update to database here
 	        	updateToDB(sql, stmt, con);
 	            line = br.readLine();
