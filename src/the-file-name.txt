@@ -1,0 +1,12 @@
+{en},
+ {English},
+ INDEX  MAX LENGTH  STRING
+  {46,18, "Answered Calls" },
+ {47,18, "Dialed Calls"},
+ {48,18, "Missed Calls"},
+ {49,18, "Download SCR XML"},
+ {50,18, "Erase Custom SCR"},
+ {51,18, "Enable DND"},
+ 
+ {52,18, "Disable DND"},
+ {53,18, "Default Ring"},

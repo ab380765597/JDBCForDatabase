@@ -1,0 +1,2076 @@
+﻿ {en},
+ {English},
+ INDEX  MAX LENGTH  STRING
+ {0,23, "Initializing..."},
+ {1,23, "HTTP "},
+ {2,23, "TFTP "},
+ {3,23, "Provisioning ..."},
+ {4,23, "Writing "},
+ {5,23, "Downloading "},
+ {6,23, "DO NOT POWER OFF!"},
+ {7,18, "New Missed Calls"},
+ {8,18, "New Missed Call"},
+ {9,22, "Press ^ key to view"},
+ {10,22, "Sync Phonebook XML..."},
+ {11,22, "This may take a minute"},
+ {12,23, "Preparing to  Reboot..."},
+ {13,18, "Call History"},
+ {14,18, "Status"},
+ {15,18, "Instant Messages"},
+ {16,18, "Direct IP Call"},
+ {17,18, "Preference"},
+ {18,18, "Config"},
+ {19,18, "Factory Functions"},
+ {20,18, "Reboot"},
+ {21,18, "Exit"},
+ {22,18, "Menu", },
+ {23,18, "Network"},
+ {24,18, "SIP"},
+ {25,18, "Audio"},
+ {26,18, "Upgrade"},
+ {27,18, "Factory Reset"},
+ {28,18, "Back"},
+ {29,18, "OK"},
+ {30,18, "Cancel"},
+ {31,18, "DHCP"},
+ {32,18, "IP"},
+ {33,7, "Netmask"},
+ {34,7, "Gateway"},
+ {35,18, "Enter MAC Address"},
+ {36,18, "Do Not Disturb"},
+ {37,18, "Ring Tone"},
+ {38,18, "Ring Volume"},
+ {39,18, "Factory Functions"},
+ {40,18, "Ethernet  Loopback"},
+ {41,18, "Audio Loopback"},
+ {42,22, "Keypad/LED Diagnosis"},
+ {43,18, "Key Pressed:"},
+ {44,22, "Enter New MAC Address"},
+ {45,18, "Phone Book"},
+ {46,18, "Answered Calls" },
+ {47,18, "Dialed Calls"},
+ {48,18, "Missed Calls"},
+ {49,18, "Download SCR XML"},
+ {50,18, "Erase Custom SCR"},
+ {51,18, "Enable DND"},
+ {52,18, "Disable DND"},
+ {53,18, "Default Ring"},
+ {54,18, "Ring 1"},
+ {55,18, "Ring 2"},
+ {56,18, "Ring 3"},
+ {57,18, "Ethernet Loopback"},
+ {58,18, "Audio Loopback"},
+ {59,18, "Diagnostic Mode"},
+ {60,18, "Disable Diag Port"},
+ {61,18, "Enable Diag Port"},
+ {62,18, "Edit MAC Address"},
+ {63,18, "testing ..."},
+ {64,18, "Press OK to return"},
+ {65,18, "Up Arrow"},
+ {66,18, "Down Arrow"},
+ {67,18, "CALLERS/Left"},
+ {68,18, "Left Arrow"},
+ {69,18, "CALLED/Right"},
+ {70,18, "Right Arrow"},
+ {71,18, "MUTE/DEL"},
+ {72,18, "FLASH"},
+ {73,18, "LINE1"},
+ {74,18, "LINE2"},
+ {75,18, "LINE3"},
+ {76,18, "LINE4"},
+ {77,18, "MESSAGE"},
+ {78,18, "TRANSFER"},
+ {79,18, "CONFERENCE"},
+ {80,18, "HOLD"},
+ {81,18, "SPEAKER"},
+ {82,18, "SEND"},
+ {83,18, "SPEED DIAL 1"},
+ {84,18, "SPEED DIAL 2"},
+ {85,18, "SPEED DIAL 3"},
+ {86,18, "SPEED DIAL 4"},
+ {87,18, "SPEED DIAL 5"},
+ {88,18, "SPEED DIAL 6"},
+ {89,18, "SPEED DIAL 7"},
+ {90,18, "IP:"},
+ {91,18, "Account "},
+ {92,18, "YES"},
+ {93,18, "NO"},
+ {94,18, "N/A"},
+ {95,18, "Boot:"},
+ {96,18, "Prog:"},
+ {97,18, "MAC: "},
+ {98,18, "New Entry"},
+ {99,22, "Download Phonebook XML"},
+ {100,18, "Dial"},
+ {101,18, "Delete"},
+ {102,18, "Edit name"},
+ {103,18, "Edit number"},
+ {104,18, "Name"},
+ {105,18, "Number:"},
+ {106,18, "Acct:"},
+ {107,18, "Confirm Add"},
+ {108,18, "Cancel & Return"},
+ {109,18, "Phone Book Entry"},
+ {110,22, "Add Phone Book Entry"},
+ {111,18, "Select Account"},
+ {112,18, "Select PCMU"},
+ {113,18, "Select PCMA"},
+ {114,18, "Select G.723.1"},
+ {115,18, "Select G.729(A/B)"},
+ {116,18, "Select GSM"},
+ {117,18, "Cancel"},
+ {118,18, "Firmware Server"},
+ {119,18, "Config Server"},
+ {120,18, "Save and use TFTP"},
+ {121,18, "Save and use HTTP"},
+ {122,18, "SIP Proxy"},
+ {123,18, "Outbound Proxy"},
+ {124,18, "SIP User ID"},
+ {125,18, "SIP Auth ID"},
+ {126,18, "SIP Password"},
+ {127,18, "Save"},
+ {128,18, "Sunday, "},
+ {129,18, "Monday, "},
+ {130,18, "Tuesday, "},
+ {131,18, "Wednesday, "},
+ {132,18, "Thursday, "},
+ {133,18, "Friday, "},
+ {134,18, "Saturday, "},
+ {135,18, "January "},
+ {136,18, "February "},
+ {137,18, "March "},
+ {138,18, "April "},
+ {139,18, "May "},
+ {140,18, "June "},
+ {141,18, "July "},
+ {142,18, "August "},
+ {143,18, "September "},
+ {144,18, "October "},
+ {145,18, "November "},
+ {146,18, "December "},
+ {147,255, "Device Configuration"},
+ {148,255, "The device is busy now."},
+ {149,255, "Please access it when it is not busy via this link below."},
+ {150,255, "Click to login later"},
+ {151,255, "STATUS"},
+ {152,255, "BASIC SETTINGS"},
+ {153,255, "ADVANCED SETTINGS"},
+ {154,255, "ACCOUNT 1"},
+ {155,255, "EXT Key"},
+ {156,255, "MAC Address"},
+ {157,255, "Product Model"},
+ {158,255, "EXT 1"},
+ {159,255, "Software Version"},
+ {160,255, "End User Password"},
+ {161,255, "IP Address"},
+ {162,255, "dynamically assigned via DHCP (default) or PPPoE"},
+ {163,255, "will attempt PPPoE if DHCP fails and following is non-blank"},
+ {164,255, "PPPoE account ID"},
+ {165,255, "PPPoE password"},
+ {166,255, "Host name"},
+ {167,255, "(Option 12)"},
+ {168,255, "Domain name"},
+ {169,255, "Vendor Class ID"},
+ {170,255, "(Option 60)"},
+ {171,255, "Preferred DNS server"},
+ {172,255, "statically configured as:"},
+ {173,255, "Subnet Mask"},
+ {174,255, "Default Router:"},
+ {175,255, "DNS Server 1"},
+ {176,255, "DNS Server 2"},
+ {177,255, "Multi Purpose Key 1"},
+ {178,255, "Key Mode"},
+ {179,255, "Speed Dial"},
+ {180,255, "Busy Lamp Field (BLF)"},
+ {181,255, "Presence Watcher"},
+ {182,255, "Account"},
+ {183,255, "Account 1"},
+ {184,255, "Program--"},
+ {185,255, "Bootloader--"},
+ {186,255, "System Up Time"},
+ {187,255, "Registered"},
+ {188,255, "All Rights Reserved"},
+ {189,255, "UserID"},
+ {190,255, "Key Mode:"},
+ {191,255, "PPPoE Link Up"},
+ {192,255, "Password"},
+ {193,255, "\"Login\""},
+ {194,255, "Sorry. Your Login Password is not recognized. Please try again."},
+ {195,255, "The device is rebooting now..."},
+ {196,255, "You may relogin by clicking on the link below in 60 seconds."},
+ {197,255, "Click to relogin"},
+ {198,255, "Your configuration changes have been saved."},
+ {199,255, "Time Zone"},
+ {200,255, "International Date Line West"},
+ {201,255, "Midway Island, Samoa"},
+ {202,255, "US Hawaiian Time"},
+ {203,255, "US Alaska Time"},
+ {204,255, "US Pacific Time, Los Angeles"},
+ {205,255, "US Mountain Time, Denver"},
+ {206,255, "US Central Time, Chicago"},
+ {207,255, "US Eastern Time, New York"},
+ {208,255, "Atlantic Time, Quebec"},
+ {209,255, "Newfoundland"},
+ {210,255, "Greenland"},
+ {211,255, "Mid-Atlantic"},
+ {212,255, "Azores, Cape Verdi Is."},
+ {213,255, "London, Dublin, Edinburgh, Lisbon, Casablanca, Monrovia"},
+ {214,255, "Paris, Amsterdam, Berlin, Rome, Vienna, Madrid, Warsaw, Brussels"},
+ {215,255, "Israel, Cairo, Athens, Helsinki, Istanbul, Buchrest"},
+ {216,255, "Moscow, Kuwait, Baghdad, Tehran, Nairobi"},
+ {217,255, "Abu Dhabi, Baku"},
+ {218,255, "Islamabad, Ekaterinburg, Karachi, Tashkent"},
+ {219,255, "Chennai, New Delhi, Mumbai"},
+ {220,255, "Kathmandu"},
+ {221,255, "Almaty, Astana, Dhaka, Novosibirsk"},
+ {222,255, "Rangoon"},
+ {223,255, "Bankok, Jakarta, Hanoi, Krasnoyarsk"},
+ {224,255, "Beijing, Singapore, Taipei, Kuala Lumpur, Irkutsk, Perth"},
+ {225,255, "Japan, Korea, Yakutsk"},
+ {226,255, "Adelaide, Darwin"},
+ {227,255, "Brisbane, Sydney, Melbourne, Canberra, Guam, Hobart"},
+ {228,255, "Magadan, Solomon Is., New Caledonia"},
+ {229,255, "Auckland, Wellington, Fiji"},
+ {230,255, "Nuku'alofa"},
+ {231,255, "Allow DHCP Option 2 to override Time Zone setting"},
+ {232,255, "No"},
+ {233,255, "Yes"},
+ {234,255, "Daylight Savings Time:"},
+ {235,255, "Optional Rule:"},
+ {236,255, "LCD Backlight Always On:"},
+ {237,255, "Time Display Format"},
+ {238,255, "12 HOUR"},
+ {239,255, "24 HOUR"},
+ {240,255, "Date Display Format"},
+ {241,255, "Year-Month-Day"},
+ {242,255, "Month-Day-Year"},
+ {243,255, "Day-Month-Year"},
+ {244,255, "Display Clock instead of Date:"},
+ {245,255, "System Device Mode"},
+ {246,255, "Device Mode:"},
+ {247,255, "Switch (default)"},
+ {248,255, "NAT/Router"},
+ {249,255, "NAT/Router Configuration"},
+ {250,255, "WAN side http access:"},
+ {251,255, "(WAN side access to http server will be rejected if set to No)"},
+ {252,255, "Reply to ICMP on WAN port:"},
+ {253,255, "(Unit will not respond to PING from WAN side if set to No)"},
+ {254,255, "Cloned WAN MAC Addr:"},
+ {255,255, "(in hex format)"},
+ {256,255, "LAN Subnet Mask:"},
+ {257,255, "default is"},
+ {258,255, "LAN DHCP Base IP:"},
+ {259,255, "base IP for the LAN port, default is"},
+ {260,255, "DHCP IP Lease Time:"},
+ {261,255, "(in units of hours, default is 120 hours or 5 days)"},
+ {262,255, "DMZ IP:"},
+ {263,255, "Port Forwarding:"},
+ {264,255, "WAN port"},
+ {265,255, "LAN IP"},
+ {266,255, "LAN port"},
+ {267,255, "Protocol"},
+ {268,255, "UDP Only"},
+ {269,255, "TCP Only"},
+ {270,255, "\"Update\""},
+ {271,255, "Admin Password"},
+ {272,255, "(purposely not displayed for security protection)"},
+ {273,255, "Silence Suppression"},
+ {274,255, "Voice Frames per TX"},
+ {275,255, "(up to 10/20/32/64 for G711/G726/G723/other codecs respectively)"},
+ {276,255, "Layer 3 QoS"},
+ {277,255, "Diff-Serv or Precedence value"},
+ {278,255, "Layer 2 QoS"},
+ {279,255, "802.1Q/VLAN Tag"},
+ {280,255, "priority value"},
+ {281,255, "No Key Entry Timeout"},
+ {282,255, "(in seconds, default is 4 seconds)"},
+ {283,255, "Use # as Dial Key"},
+ {285,255, "local RTP port"},
+ {286,255, "default"},
+ {287,255, "Use random port"},
+ {288,255, "keep-alive interval"},
+ {289,255, "(in seconds, default 20 seconds)"},
+ {290,255, "Use NAT IP"},
+ {291,255, "if specified, this will be used in SIP/SDP message"},
+ {292,255, "STUN server"},
+ {293,255, "(URI or IP:port)"},
+ {294,255, "Firmware Upgrade and Provisioning"},
+ {295,255, "Upgrade Via"},
+ {296,255, "Firmware Server Path"},
+ {297,255, "Config Server Path"},
+ {298,255, "Firmware File Prefix"},
+ {299,255, "Firmware File Postfix"},
+ {300,255, "Config File Prefix"},
+ {301,255, "Config File Postfix"},
+ {302,255, "Allow DHCP Option43 and Option 66 to override server"},
+ {303,255, "Automatic Upgrade"},
+ {304,255, "Yes, check for upgrade every"},
+ {305,255, "minutes (default 7 days)"},
+ {306,255, "Always Check for New Firmware"},
+ {307,255, "Check New Firmware only when F/W pre/suffix changes"},
+ {308,255, "Always Skip the Firmware Check"},
+ {309,255, "Authenticate Conf File"},
+ {310,255, "(cfg file would be authenticated before acceptance if set to Yes)"},
+ {311,255, "Phonebook XML Download"},
+ {312,255, "Enable Phonebook XML Download"},
+ {313,255, "Phonebook XML Server Path"},
+ {314,255, "Phonebook Download Interval"},
+ {315,255, "Remove Manually-edited entries on Download"},
+ {316,255, "Idle Screen XML Download"},
+ {317,255, "Enable Idle Screen XML Download"},
+ {318,255, "Idle Screen XML Server Path"},
+ {319,255, "DTMF Payload Type"},
+ {320,255, "Syslog Level"},
+ {321,255, "NONE"},
+ {322,255, "DEBUG"},
+ {323,255, "INFO"},
+ {324,255, "WARNING"},
+ {325,255, "ERROR"},
+ {326,255, "NTP Server"},
+ {327,255, "(URI or IP address)"},
+ {328,255, "Allow DHCP Option 42 to override NTP server"},
+ {329,255, "Distinctive Ring Tone"},
+ {330,255, "Custom ring tone 1, used if incoming caller ID is"},
+ {331,255, "Custom ring tone 2, used if incoming caller ID is"},
+ {332,255, "Custom ring tone 3, used if incoming caller ID is"},
+ {333,255, "Disable Call-Waiting"},
+ {334,255, "Disable Call-Waiting Tone"},
+ {335,255, "Use Quick IP-call mode"},
+ {336,255, "Lock Keypad Update:"},
+ {337,255, "(configuration update via keypad is disabled if set to Yes)"},
+ {338,255, "Account Active"},
+ {339,255, "Account Name"},
+ {340,255, "(e.g., MyCompany)"},
+ {341,255, "SIP Server"},
+ {342,255, "(e.g., sip.mycompany.com, or IP address)"},
+ {343, 255, "(e.g., proxy.myprovider.com, or IP address)"},
+ {344,255, "SIP User ID"},
+ {345,255, "the user part of an SIP address"},
+ {346,255, "Authenticate ID"},
+ {347, 255, "can be same or different from SIP UserID"},
+ {348,255, "Authenticate Password"},
+ {349, 255, "(not displayed for security protection)"},
+ {350,255, "(optional, e.g., John Doe)"},
+ {351,255, "Use DNS SRV:"},
+ {352,255, "User ID is phone number:"},
+ {353,255, "SIP Registration"},
+ {354,255, "Unregister On Reboot"},
+ {355,255, "Register Expiration"},
+ {356,255, "(in minutes. default 1 hour, max 45 days)"},
+ {357,255, "local SIP port"},
+ {358,255, "SIP T1 Timeout"},
+ {359,255, "sec"},
+ {360,255, "SIP T2 Interval"},
+ {361,255, "NAT Traversal"},
+ {362,255, "No, but send keep-alive"},
+ {363,255, "SUBSCRIBE for MWI"},
+ {364,255, "PUBLISH for Presence"},
+ {365,255, "Proxy-Require:"},
+ {366,255, "Voice Mail UserID"},
+ {367, 255, "(UserID for voice mail system)"},
+ {368,255, "Send DTMF"},
+ {369,255, "in-audio"},
+ {370,255, "via RTP (RFC2833)"},
+ {371,255, "via SIP INFO"},
+ {372,255, "Early Dial"},
+ {373,255, "Yes (use \"Yes\" only if proxy supports 484 response)"},
+ {374,255, "Dial Plan Prefix"},
+ {375,255, "(this prefix string is added to each dialed number)"},
+ {376,255, "Enable Call Features"},
+ {377,255, "Yes (if yes, call features using star codes will be supported locally)"},
+ {378,255, "Call Log"},
+ {379,255, "Log All Calls"},
+ {380,255, "Session Expiration"},
+ {381,255, "(in seconds. default 180 seconds)"},
+ {382,255, "(in seconds. default and minimum 90 seconds)"},
+ {383,255, "Caller Request Timer"},
+ {384,255, "Yes (Request for timer when making outbound calls)"},
+ {385,255, "Callee Request Timer"},
+ {386,255, "Yes (When caller supports timer but did not request one)"},
+ {387,255, "Force Timer"},
+ {388,255, "Yes (Use timer even when remote party does not support)"},
+ {389,255, "UAC Specify Refresher"},
+ {390,255, "Omit (Recommended)"},
+ {391,255, "UAS Specify Refresher"},
+ {392,255, "UAS (When UAC did not specify refresher tag)"},
+ {393,255, "Force INVITE"},
+ {394,255, "Yes (Always refresh with INVITE instead of UPDATE)"},
+ {395,255, "Enable 100rel"},
+ {396,255, "Account Ring Tone"},
+ {397,255, "system ring tone"},
+ {398,255, "custom ring tone 1"},
+ {399,255, "Send Anonymous"},
+ {400,255, "(caller ID will be blocked if set to Yes)"},
+ {401,255, "Anonymous Method:"},
+ {402,255, "Use From Header"},
+ {403,255, "Use Privacy Header"},
+ {404,255, "Auto Answer"},
+ {405,255, "Allow Auto Answer by Call-Info"},
+ {406,255, "Turn off speaker on <br>remote disconnect"},
+ {407,255, "Check SIP User ID for <br>incoming INVITE"},
+ {408,255, "Preferred Vocoder"},
+ {409,255, "(in listed order)"},
+ {410,255, "choice 1"},
+ {411,255, "SRTP Mode"},
+ {412,255, "Disabled"},
+ {413,255, "Enabled but not forced"},
+ {414,255, "Enabled and forced"},
+ {415,255, "Special Feature"},
+ {416,255, "Standard"},
+ {417,255, "They will take effect on next reboot."},
+ {418,255, "Display Language"},
+ {419,255, "Syslog Server"},
+ {420,255, "ACCOUNT 2"},
+ {421,255, "ACCOUNT 3"},
+ {422,255, "ACCOUNT 4"},
+ {423,255, "EXT 2"},
+ {424,255, "(Option 15)"},
+ {425,255, "Multi Purpose Key 2"},
+ {426,255, "Multi Purpose Key 3"},
+ {427,255, "Multi Purpose Key 4"},
+ {428,255, "Multi Purpose Key 5"},
+ {429,255, "Multi Purpose Key 6"},
+ {430,255, "Multi Purpose Key 7"},
+ {431,255, "Account 2"},
+ {432,255, "Account 3"},
+ {433,255, "Account 4"},
+ {434,255, "1024-65400, default 5004, must be even"},
+ {435,255, "(default 5060)"},
+ {436,255, "0.5 sec"},
+ {437,255, "1 sec"},
+ {438,255, "2 sec"},
+ {439,255, "4 sec"},
+ {440,255, "8 sec"},
+ {441,255, "custom ring tone 2"},
+ {442,255, "custom ring tone 3"},
+ {443,255, "choice 2"},
+ {444,255, "choice 3"},
+ {445,255, "choice 4"},
+ {446,255, "choice 5"},
+ {447,255, "choice 6"},
+ {448,255, "choice 7"},
+ {449,255, "choice 8"},
+ {450,255, "\"Reboot\""},
+ {451,255, "(default 5062)"},
+ {452,255, "(default 5064)"},
+ {453,255, "(default 5066)"},
+ {454,255, "EXT Key 1"},
+ {455,255, "EXT Key 2"},
+ {456,255, "EXT Key 3"},
+ {457,255, "EXT Key 4"},
+ {458,255, "EXT Key 5"},
+ {459,255, "EXT Key 6"},
+ {460,255, "EXT Key 7"},
+ {461,255, "EXT Key 8"},
+ {462,255, "EXT Key 9"},
+ {463,255, "EXT Key 10"},
+ {464,255, "EXT Key 11"},
+ {465,255, "EXT Key 12"},
+ {466,255, "EXT Key 13"},
+ {467,255, "EXT Key 14"},
+ {468,255, "EXT Key 15"},
+ {469,255, "EXT Key 16"},
+ {470,255, "EXT Key 17"},
+ {471,255, "EXT Key 18"},
+ {472,255, "EXT Key 19"},
+ {473,255, "EXT Key 20"},
+ {474,255, "EXT Key 21"},
+ {475,255, "EXT Key 22"},
+ {476,255, "EXT Key 23"},
+ {477,255, "EXT Key 24"},
+ {478,255, "EXT Key 25"},
+ {479,255, "EXT Key 26"},
+ {480,255, "EXT Key 27"},
+ {481,255, "EXT Key 28"},
+ {482,255, "EXT Key 29"},
+ {483,255, "EXT Key 30"},
+ {484,255, "EXT Key 31"},
+ {485,255, "EXT Key 32"},
+ {486,255, "EXT Key 33"},
+ {487,255, "EXT Key 34"},
+ {488,255, "EXT Key 35"},
+ {489,255, "EXT Key 36"},
+ {490,255, "EXT Key 37"},
+ {491,255, "EXT Key 38"},
+ {492,255, "EXT Key 39"},
+ {493,255, "EXT Key 40"},
+ {494,255, "EXT Key 41"},
+ {495,255, "EXT Key 42"},
+ {496,255, "EXT Key 43"},
+ {497,255, "EXT Key 44"},
+ {498,255, "EXT Key 45"},
+ {499,255, "EXT Key 46"},
+ {500,255, "EXT Key 47"},
+ {501,255, "EXT Key 48"},
+ {502,255, "EXT Key 49"},
+ {503,255, "EXT Key 50"},
+ {504,255, "EXT Key 51"},
+ {505,255, "EXT Key 52"},
+ {506,255, "EXT Key 53"},
+ {507,255, "EXT Key 54"},
+ {508,255, "EXT Key 55"},
+ {509,255, "EXT Key 56"},
+ {510,255, "EXT Key 57"},
+ {511,255, "EXT Key 58"},
+ {512,255, "EXT Key 59"},
+ {513,255, "EXT Key 60"},
+ {514,255, "EXT Key 61"},
+ {515,255, "EXT Key 62"},
+ {516,255, "EXT Key 63"},
+ {517,255, "EXT Key 64"},
+ {518,255, "EXT Key 65"},
+ {519,255, "EXT Key 66"},
+ {520,255, "EXT Key 67"},
+ {521,255, "EXT Key 68"},
+ {522,255, "EXT Key 69"},
+ {523,255, "EXT Key 70"},
+ {524,255, "EXT Key 71"},
+ {525,255, "EXT Key 72"},
+ {526,255, "EXT Key 73"},
+ {527,255, "EXT Key 74"},
+ {528,255, "EXT Key 75"},
+ {529,255, "EXT Key 76"},
+ {530,255, "EXT Key 77"},
+ {531,255, "EXT Key 78"},
+ {532,255, "EXT Key 79"},
+ {533,255, "EXT Key 80"},
+ {534,255, "EXT Key 81"},
+ {535,255, "EXT Key 82"},
+ {536,255, "EXT Key 83"},
+ {537,255, "EXT Key 84"},
+ {538,255, "EXT Key 85"},
+ {539,255, "EXT Key 86"},
+ {540,255, "EXT Key 87"},
+ {541,255, "EXT Key 88"},
+ {542,255, "EXT Key 89"},
+ {543,255, "EXT Key 90"},
+ {544,255, "EXT Key 91"},
+ {545,255, "EXT Key 92"},
+ {546,255, "EXT Key 93"},
+ {547,255, "EXT Key 94"},
+ {548,255, "EXT Key 95"},
+ {549,255, "EXT Key 96"},
+ {550,255, "EXT Key 97"},
+ {551,255, "EXT Key 98"},
+ {552,255, "EXT Key 99"},
+ {553,255, "EXT Key 100"},
+ {554,255, "EXT Key 101"},
+ {555,255, "EXT Key 102"},
+ {556,255, "EXT Key 103"},
+ {557,255, "EXT Key 104"},
+ {558,255, "EXT Key 105"},
+ {559,255, "EXT Key 106"},
+ {560,255, "EXT Key 107"},
+ {561,255, "EXT Key 108"},
+ {562,255, "EXT Key 109"},
+ {563,255, "EXT Key 110"},
+ {564,255, "EXT Key 111"},
+ {565,255, "EXT Key 112"},
+ {566,22, "--- NO RESPONSE"},
+ {567,22, "There was no response"},
+ {568,22, "received from server"},
+ {569,22, "403 FORBIDDEN"},
+ {570,22, "Your request is not"},
+ {571,22, "allowed"},
+ {572,22, "404 NOT FOUND"},
+ {573,22, "Wrong number or remote"},
+ {574,22, "party not online"},
+ {575,22, "408 TIME OUT"},
+ {576,22, "486 BUSY"},
+ {577,22, "Remote party is busy"},
+ {578,22, "488 NOT ACCEPTABLE"},
+ {579,22, "Try different vocoder"},
+ {580,22, "SRTP Enforce Failed"},
+ {581,22, "Terminate Call"},
+ {582,22, "NO RESPONSE"},
+ {583,22, "Not Registered"},
+ {584,22, "DIAL NUMBER (BLIND) OR"},
+ {585,22, "SELECT LINE (ATTENDED)"},
+ {586,22, "LINE0: CALL PARK"},
+ {587,22, "DIAL THE ORBIT NUMBER "},
+ {588,22, "AND PRESS SEND        "},
+ {589,22, "SELECT THE LINE TO"},
+ {590,22, "OR DIAL NUMBER"},
+ {591,255, "Log Incoming/Outgoing only (Missed calls NOT recorded)"},
+ {592,255, "Disable Call Log"},
+ {593,22, "Received Call Entry"},
+ {594,18, "Dialed Call Entry"},
+ {595,18, "Missed Call Entry"},
+ {596,255, "\"Cancel\""},
+ {597,18, "Remove"},
+ {598,18, "IM Entry"},
+ {599,18, "Clear All"},
+ {600,18, "--END OF MESSAGE--"},
+ {601,255, "day(s)"},
+ {602,255, "hour(s)"},
+ {603,255, "minute(s)"},
+ {604,18, "RINGING"},
+ {605,18, "LINE"},
+ {606,18, "HOLD"},
+ {607,18, "CALLING"},
+ {608,18, "TRANSFER"},
+ {609,18, "CONFERENCE"},
+ {610,18, "PAGE"},
+ {611,18, "DIAL"},
+ {612,18, "USING"},
+ {613,18, "NEW MESSAGES"},
+ {614,18, "MUTE"},
+ {615,18, "TALKING"},
+ {616,12, "CONFERENCING"},
+ {617,6, "Cancel"},
+ {618,255, "disabled"},
+ {619,255, "detected NAT type is "},
+ {620,255, "full cone"},
+ {621,255, "restricted cone"},
+ {622,255, "port restricted cone"},
+ {623,255, "symmetric NAT"},
+ {624,255, "symmetric UDP firewall"},
+ {625,255, "UDP blocked"},
+ {626,255, "open Internet"},
+ {627,255, "G723 rate"},
+ {628,255, "6.3kbps encoding rate"},
+ {629,255, "5.3kbps encoding rate"},
+ {630,255, "SIP Transport"},
+ {631,255, "Use RFC3581 Symmetric Routing:"},
+ {632,255, "Anonymous Call Rejection"},
+ {633,255, "Disable in-call DTMF display"},
+ {634,255, "eventlist BLF"},
+ {635,255, "eventlist BLF URI"},
+ {636,18,  "Select iLBC"},
+ {637,18,  "Select G.722"},
+ {638,18,  "Select G.726-32"},
+ {639,22,  "NETWORK DOWN"},
+ {640,22,  "NETWORK STARTING"},
+ {641,255, "Call Progress Tones"},
+ {642,255, "Dial Tone"},
+ {643,255, "Message Waiting"},
+ {644,255, "System Ring Tone"},
+ {645,255, "Ring Back Tone"},
+ {646,255, "Call-Waiting Tone"},
+ {647,255, "Busy Tone"},
+ {648,255, "Refer-To Use Target Contact"},
+ {649,18,  "Save to Phonebook"},
+ {650,255, "Reorder Tone"},
+ {651,255, "Syntax: "},
+ {652,255, "(Frequencies are in Hz and cadence on and off are in 10ms)"},
+ {653,255, "Delayed Call Forward Wait Time"},
+ {654,255, "(Allowed range 1-120, in seconds.)"},
+ {655,255, "Enable Shared Call Appearance:"},
+ {656,255, "iLBC frame size"},
+ {657,255, "20ms"},
+ {658,255, "30ms"},
+ {659,255, "iLBC payload type"},
+ {660,255, "(between 96 and 127, default is 97)"},
+ {661,255, "SIP Registration Failure Retry Wait Time"},
+ {662,255, "(in seconds. Between 1-3600, default is 20)"},
+ {663,22,  "Transferring"},
+ {664,22,  "CONFERENCING"},
+ {665,22,  "Call Failed"},
+ {666,22,  "Reason Code: "},
+ {667,22,  "Transfer Successful"},
+ {668,22,  "Transfer Failed"},
+ {669,22,  "Call Forward All"},
+ {670,22,  "Call Forward on Busy"},
+ {671,22,  "Call Forward No Answer"},
+ {672,22,  "Enter number to fwd:"},
+ {673,18, "LINE5"},
+ {674,18, "LINE6"},
+ {675,18, "HEADSET"},
+ {676,18, "INTERCOM"},
+ {677,18, "PHONEBOOK"},
+ {678,18, "SOFT KEY 1"},
+ {679,18, "SOFT KEY 2"},
+ {680,18, "SOFT KEY 3"},
+ {681,18, "SOFT KEY 4"},
+ {682,255, "ACCOUNT 5"},
+ {683,255, "ACCOUNT 6"},
+ {684,16,  "MissedCalls"},
+ {685,16,  "ForwardAll"},
+ {686,16,  "BackSpace"},
+ {687,16,  "CancelFwd"},
+ {688,16,  "More ->"},
+ {689,16,  "NewCall"},
+ {690,16,  "EndCall"},
+ {691,16,  "Redial"},
+ {692,16,  "CallReturn"},
+ {693,16,  "Dial"},
+ {694,16,  "Clear"},
+ {695,16,  "Return ->"},
+ {696,255, "LCD Backlight Brightness"},
+ {697,255, "0-8, where 0 is off and 8 is brightest"},
+ {698,255, "Account 5"},
+ {699,255, "Account 6"},
+ {700,255, "Active"},
+ {701,255, "Idle"},
+ {702,255, "Mute Speaker Ringer:"},
+ {703,16,  "AnswerCall"},
+ {704,16,  "RejectCall"},
+ {705,22,  "Verifying "},
+ {706,22,  "This may take a while"},
+ {707,255, "Static IP"},
+ {708,255, "XML Application"},
+ {709,255, "IP Setting"},
+ {710,255, "Offhook Auto Dial"},
+ {711,255, "(User ID/extension to dial automatically when offhook, max length 35) "},
+ {712,255, "Disable Multiple Media Attribute in SDP: "},
+ {713,16,  "XML Service"},
+ {714,255, "(default 5068)"},
+ {715,255, "(default 5070)"},
+ {716,22,  "Onhook Dialing"},
+ {717,255, "ACCOUNT"},
+ {718,255, "Display Account Name<br> instead of Date:"},
+ {719,255, "(Numeric Input Supported Only)"},
+ {720,255, "Onhook Threshold:"},
+ {721,255, "Hookflash OFF"},
+ {722,255, "Disable Call Log:"},
+ {723,255, "Disable Missed Call Backlight"},
+ {724,255, "Select Line "},
+ {725,255, "Server Path"},
+ {726,255, "Softkey Label"},
+ {727,255, "Multi Purpose Key 8"},
+ {728,255, "Multi Purpose Key 9"},
+ {729,255, "Multi Purpose Key 10"},
+ {730,255, "Multi Purpose Key 11"},
+ {731,255, "Multi Purpose Key 12"},
+ {732,255, "Multi Purpose Key 13"},
+ {733,255, "Multi Purpose Key 14"},
+ {734,255, "Multi Purpose Key 15"},
+ {735,255, "Multi Purpose Key 16"},
+ {736,255, "Multi Purpose Key 17"},
+ {737,255, "Multi Purpose Key 18"},
+ {738,255, "Page Up"},
+ {739,255, "Page Down"},
+ {740,255, "Missed"},
+ {741,255, "Forward"},
+ {742,255, "Answer"},
+ {743,255, "Recall"},
+ {744,255, "Reject"},
+ {745,18, "Acct"},
+ {746,255, "BLF"},
+ {747,255, "Reset Vlan Config"},
+ {748,19, "Download Phonebook"},
+ {749,19, "LCD Contrast"},
+ {750,255, "Intercom User ID"},
+ {751,255, "Headset Port Type:"},
+ {752,18, "2.5mm"},
+ {753,23, "RJ22"},
+ {754,255, "Headset TX gain (dB)"},
+ {755,255, "Headset RX gain (dB)"},
+ {756,18, " 0 dB"},
+ {757,18, "-6 dB"},
+ {758,18, "+6 dB"},
+ {759,255, "Kabul"},
+ {760,255, "Tehran"},
+ {761,255, "Venezuela"},
+ {762, 255, "English"},
+ {763, 255, "Downloaded Language"},
+ {764, 255, "Language File postfix"},
+ {765, 255, "System Time"},
+ {766,255, "Part Number"},
+ {767,255, "DISCONNECTED"},
+ {768,255, "LDAP Directory"},
+ {769,255, "View Directory"},
+ {770,255, "Download Directory"},
+ {771,255, "LDAP Configuration"},
+ {772,255, "Select Filter"},
+ {773,255, "Filter Value"},
+ {774,255, "Common Name"},
+ {775,255, "Surname"},
+ {776,255, "First Name"},
+ {777,255, "Telephone Number"},
+ {778,255, "LDAP Script Server Path"},
+ {779,255, "Optional"},
+ {780, 22, "Delete All Entries"},
+ {781, 22, "Confirmation"},
+ {782, 32, "Confirm to delete all entries?"},
+ {783, 32, "Confirm to delete entry?"},
+ {784,255, "Chinese"},
+ {785, 22, "480 NOT AVAILABLE"},
+ {786, 22, "Search"},
+ {787, 22, "Not Found"},
+ {788,255, "Disable Direct IP Calls"},
+ {789,255, "Disable Conference"},
+ {790,255, "(5-720, in minutes, 0 for disable automatic downloading)"},
+ {791, 18, "SPEED DIAL 8"},
+ {792, 18, "SPEED DIAL 9"},
+ {793, 18, "SPEED DIAL 10"},
+ {794, 18, "SPEED DIAL 11"},
+ {795, 18, "SPEED DIAL 12"},
+ {796, 18, "SPEED DIAL 13"},
+ {797, 18, "SPEED DIAL 14"},
+ {798, 18, "SPEED DIAL 15"},
+ {799, 18, "SPEED DIAL 16"},
+ {800, 18, "SPEED DIAL 17"},
+ {801, 18, "SPEED DIAL 18"},
+ {802, 18, "Auth Config"},
+ {803, 18, "Username"},
+ {804, 18, "Password"},
+ {805, 18, "Network Mode"},
+ {806, 18, "Reset"},
+ {807, 18, "Auth Error"},
+ {808, 32, "Device is not valid."},
+ {809,255, "Username and Password error, please try again!"},
+ {810, 32, "Auth failed 3 times!"},
+ {811, 32, "Download Failure"},
+ {812, 64, "Download configure file failed, please reboot!"},
+ {813, 32, "Save Username/Password"},
+ {814, 18, "Manage Group"},
+ {815, 18, "Show Group"},
+ {816, 18, "New Group"},
+ {817, 18, "Delete Group"},
+ {818, 18, "Edit Group"},
+ {819, 18, "Name"},
+ {820, 18, "Blacklist"},
+ {821, 25, "Confirm to delete group?"},
+ {822, 25, "Group"},
+ {823, 25, "Select Number to Dial"},
+ {824, 25, "Home"}
+ {825, 25, "Cell"}
+ {826, 25, "Office"}
+ {827, 25, "Fax"}
+ {828, 25, "Group Records"},
+ {829, 75, "Press Phonebook Button to Quit"},
+ {830, 30, "HEADSET Key Mode"},
+ {831, 18, "Default Mode"},
+ {832, 40, "Toggle Headset/Speaker"},
+ {833,255, "Keep-Alive Using SIP OPTIONS"},
+# 834 -- 867 is used for chinese date display. Please start new string with 870
+ {868, 16, "am"},
+ {869, 16, "pm"},
+ {870,255, "Registered"},
+ {871,255, "Not Registered"},
+ {872,255, "Ring Timeout"},
+ {873,255, "(in seconds. Between 30-3600, default is 60)"},
+ {874,255, "LCD Brightness"},
+ {875,255, "Password Error"},
+ {876,255, "Please Reenter"},
+ {877,255, "Register Account"},
+ {878,255, "Registration sent"},
+ {879,255, "in seconds, default is"},
+ {880,255, "Send Flash Event: "},
+ {881, 32, "Number is prohibited"},
+ {882, 32, "No dial plan rules matched"},
+ {883, 32, "REMOTE HELD"},
+ {884,255, "Enable MPK sending DTMF"},
+ {885,255, " button pressing will have no effect if set to Yes"},
+ {886,255, "Disable Transfer"},
+ {887,255, "Use custom filename"},
+ {888,255, "DND"},
+ {889,255, " Button"},
+ {890,255, "Anonymous"},
+ {891,255, "PPPoE Settings"},
+ {892,25,  "Transferred Calls"},
+ {893,25,  "Transferred Call Entry"},
+ {894,255, "Display CID instead of Name"},
+ {895,18,  "SESSION EXPIRED"},
+ {896,255, "SUBSCRIBE for Registration Event:"},
+ {897,255, "BLF Call-pickup Prefix"},
+ {898,255, "(this prefix is prepended when answering call with BLF key)"},
+ {899,255, "Public Mode"},
+ {900,32,  "LogOut"},
+ {901,32,  "SignIn"},
+ {902,32,  "SignOut"},
+ {903,255, "Please select a Call-queue to join"},
+ {904,32,  "Login Processing..."},
+ {905,32,  "Logout Processing..."},
+ {906,32,  "Login Failed!"},
+ {907,32,  "LogIn"},
+ {908,32,  "User Name"},
+ {909,32,  "Password"},
+ {910,32,  "Login, User Name"},
+ {911,32,  "Login, Password"},
+ {912,32,  "Tab"},
+ {913,32,  "Download Screen XML At Boot-up"},
+ {914,32,  "PC Port Mode"},
+ {915,32,  "CallPark"},
+ {916,32,  "PickUp"},
+ {917,32,  "Switch"},
+ {918,32,  "Hub"},
+ {919,32,  "Select A Green MPK Key to Park a Call"},
+ {920,32,  ""},
+ {921,32,  "Disable Multicast Filter"},
+ {922,32,  "Data VLAN Tag"},
+ {923,255, "(can't use the same non-zero value as 802.1Q tag)"},
+ {924,32,  "Enable Constraint Mode"},
+ {925,32,  "Multi Purpose Key"},
+ {926,32,  "Edit UserID"},
+ {927,32,  "Semi-attended Transfer Mode"},
+ {928,32,  "RFC5589"},
+ {929,32,  "Send REFER with early dialog"},
+ {930,32,  "Support SIP Instance ID"},
+ {931,255, "XML Config File Password"},
+ {944,32,  "Speed Dial via active account"},
+ {1001,255, "Symmetric RTP"},
+ {1002,255, "Support SIP Instance ID"},
+ {1003,32, "DNS Mode"},
+ {1004,32, "Enable WDT"},
+ {1005,32, "Disable WDT"},
+ {1006,255, "STUN"},
+ {1007,255, "Keep-Alive"},
+ {1008,255, "UPnP"},
+ {1009,255, "Auto"},
+ {1010,255, "VPN"},
+ {1011,255, "Remove OBP from Route"},
+ {1012,32, "TRANSFERRED"},
+ {1013,32, "Ending"},
+ {1014,32, "Failed"},
+ {1015,255,"Dial Plan"},
+ {1016,255,"Validate Incoming Messages"},
+ {1017,255,"Transfer on Conference Hangup"},
+ {1018,32, "More"},
+ {1019,32, "Return"},
+ {1020,32, "Last Name"},
+ {1021,32, "Edit First Name"},
+ {1022,32, "Edit Last Name"},
+ {1023,255,"SSL Certificate"},
+ {1024,255,"SSL Private Key"},
+ {1025,255,"SSL Private Key Password"},
+ {1026,255,"Configuration via Keypad Menu"},
+ {1027,255,"Unrestricted"},
+ {1028,255,"Basic settings only"},
+ {1029,255,"Constraint Mode"},
+ {1030,255,"Korean"},
+ {1031,255,"Japanese"},
+ {1032,255,"Volume Up"},
+ {1033,255,"Volume Down"},
+ {1034,255,"Please Use 5V Power"},
+ {1035,255,"Simplified Chinese"},
+ {1036,255,"Traditional Chinese"},
+ {1037,255,"Italian"},
+ {1038,255,"Spanish"},
+ {1039,255,"French"},
+ {1040,255,"German"},
+ {1041,32, "Loading new language..."},
+ {1042,255,"HTTP/HTTPS User Name"},
+ {1043,255,"HTTP/HTTPS Password"},
+ {1044,255,"Self-Defined Time Zone"},
+ {1045,18, "NEW MESSAGE"},
+ {1046,18, "Sun"},
+ {1047,18, "Mon"},
+ {1048,18, "Tue"},
+ {1049,18, "Wed"},
+ {1050,18, "Thu"},
+ {1051,18, "Fri"},
+ {1052,18, "Sat"},
+ {1053,18, "$W, $M$D"},
+ {1054,18, "SwitchSCR"}, (Softkey, idle screen, to switch between multiple screens)
+ {1055,18, "Settings"},
+ {1056,18, "Accounts"},
+ {1057,18, "Extension Boards"},
+ {1058,18, "Automatic"},
+ {1059,18, "Unknown Language"},
+ {1060,32, "Use Configured IP"},
+ {1061,32, "Primary IP"},
+ {1062,32, "Backup IP 1"},
+ {1063,32, "Backup IP 2"},
+ {1064,32, "Line"},
+ {1065,32, "Shared Line"},
+ {1066,32, "Line Keys"},
+ {1067,32, "Line Key"},
+ {1068,32, "Multi-Purpose Keys"},
+ {1069,32, "PrivateHold"},
+ {1070,32, "Line Seize Failed"},
+ {1071,32, "Check Domain Certificates"},
+ {1072,255,"When set to Yes/Enabled, we will check the domain certificate as defined in RFC5922"},
+ {1073,32, "Secondary SIP Server"},
+ {1074,32, "Line-seize Timeout"},
+ {1075,32, "(in seconds. Between 15-60, default is 15) "},
+ {1076,16, "SeizeLine"},
+ {1077,32, "Applying new configuration"},
+ {1078,32, "Weather Update"},
+ {1079,32, "City Code"},
+ {1080,32, "Update Interval"},
+ {1081,255,"(in minutes, between 5-360, default is 15)"},
+ {1082,32, "Degree Unit"},
+ {1083,32, "Fahrenheit"},
+ {1084,32, "Celsius"},
+ {1085,32, "Stock Update"},
+ {1086,32, "Currency Update"},
+ {1087,32, "Disabled"},
+ {1088,32, "Enabled"},
+ {1100,255,"Tornado"},
+ {1101,255,"Tropical storm"},
+ {1102,255,"Hurricane"},
+ {1103,255,"Severe thunderstorms"},
+ {1104,255,"Thunderstorms"},
+ {1105,255,"Mixed rain and snow"},
+ {1106,255,"Mixed rain and sleet"},
+ {1107,255,"Mixed snow and sleet"},
+ {1108,255,"Freezing drizzle"},
+ {1109,255,"Drizzle"},
+ {1110,255,"Freezing rain"},
+ {1111,255,"Showers 1"},
+ {1112,255,"Showers 2"},
+ {1113,255,"Snow flurries"},
+ {1114,255,"Light snow showers"},
+ {1115,255,"Blowing snow"},
+ {1116,255,"Snow"},
+ {1117,255,"Hail"},
+ {1118,255,"Sleet"},
+ {1119,255,"Dust"},
+ {1120,255,"Foggy"},
+ {1121,255,"Haze"},
+ {1122,255,"Smoky"},
+ {1123,255,"Blustery"},
+ {1124,255,"Windy"},
+ {1125,255,"Cold"},
+ {1126,255,"Cloudy"},
+ {1127,255,"Mostly cloudy night"},
+ {1128,255,"Mostly cloudy day"},
+ {1129,255,"Partly cloudy night"},
+ {1130,255,"Partly cloudy day"},
+ {1131,255,"Clear night"},
+ {1132,255,"Sunny"},
+ {1133,255,"Fair night"},
+ {1134,255,"Fair day"},
+ {1135,255,"Mixed rain and hail"},
+ {1136,255,"Hot"},
+ {1137,255,"Isolated thunderstorms"},
+ {1138,255,"Scattered thunderstorms 1"},
+ {1139,255,"Scattered thunderstorms 2"},
+ {1140,255,"Scattered showers"},
+ {1141,255,"Heavy snow"},
+ {1142,255,"Scattered snow showers"},
+ {1143,255,"Heavy snow"},
+ {1144,255,"Partly cloudy"},
+ {1145,255,"Thundershowers"},
+ {1146,255,"Snow showers"},
+ {1147,255,"Isolated thundershowers"},
+ {1148,255,"Not available"},
+ {1149,255,"Unknown"},
+ {1150,255,"High"},
+ {1151,255,"Low"},
+ {1152,255,"Humidity"},
+ {1153,255,"Tomorrow"},
+ {1154,255,"802.1X Mode"},
+ {1155,255,"Disable"}, 802.1x disabled
+ {1156,255,"Identity"}, 802.1x identity
+ {1157,255,"MD5 Password"}, 802.1x MD5 Password
+ {1158,255,"Continue"},
+ {1159,255,"PPPoE Service Name"},
+ {1160,255,"GMT-12:00 (International Date Line West)"},
+ {1161,255,"GMT-11:00 (Midway Island, Samoa)"},
+ {1162,255,"GMT-10:00 (US Hawaiian Time)"},
+ {1163,255,"GMT-09:00 (US Alaska Time)"},
+ {1164,255,"GMT-08:00 (US Pacific Time, Los Angeles)"},
+ {1165,255,"GMT-07:00 (US Mountain Time, Denver)"},
+ {1166,255,"GMT-07:00 (Mountain Time (Arizona, no DST))"},
+ {1167,255,"GMT-06:00 (Central Time)"},
+ {1168,255,"GMT-06:00 (Central America)"},
+ {1169,255,"GMT-05:00 (Eastern Time)"},
+ {1170,255,"GMT-04:30 (Caracas)"},
+ {1171,255,"GMT-04:00 (Atlantic Time)"}
+ {1172,255,"GMT-04:00 (Atlantic Time (New Brunswick))"},
+ {1173,255,"GMT-03:30 (Newfoundland Time)"},
+ {1174,255,"GMT-03:00 (Greenland)"},
+ {1175,255,"GMT-03:00 (Brazil, Sao Paulo)"},
+ {1176,255,"GMT-02:00 (Argentina)"},
+ {1177,255,"GMT-02:00 (Mid-Atlantic)"},
+ {1178,255,"GMT-01:00 (Azores, Cape Verde Is.)"},
+ {1179,255,"GMT (Edinburgh, Casablanca, Monrovia)"},
+ {1180,255,"GMT (London, Great Britain)"},
+ {1181,255,"GMT (Lisbon, Portugal)"},
+ {1182,255,"GMT (Dublin, Ireland)"},
+ {1183,255,"GMT+01:00 (Paris, Vienna, Warsaw)"},
+ {1184,255,"GMT+01:00 (Roma, Paris, Madrid, Prague, Berlin, Budapest, Amsterdam, Barcelona)"},
+ {1185,255,"GMT+01:00 (Brussels, Belgium)"},
+ {1186,255,"GMT+02:00 (Israel, Cairo, Athens, Istanbul, Bucharest)"},
+ {1187,255,"GMT+02:00 (Helsinki, Athens, Tallinn)"},
+ {1188,255,"GMT+02:00 (Kyiv, Ukraine)"},
+ {1189,255,"GMT+03:00 (Kuwait, Baghdad, Tehran, Nairobi)"},
+ {1190,255,"GMT+03:00 (Moscow, Russia)"},
+ {1191,255,"GMT+03:00 (St.Petersburg, Russia)"},
+ {1192,255,"GMT+04:00 (Abu Dhabi, Baku)"},
+ {1193,255,"GMT+05:00 (Islamabad, Ekaterinburg, Karachi, Tashkent)"},
+ {1194,255,"GMT+05:30 (Chennai, New Delhi, Mumbai)"},
+ {1195,255,"GMT+05:45 (Kathmandu)"},
+ {1196,255,"GMT+06:00 (Almaty, Astana, Dhaka, Novosibirsk)"},
+ {1197,255,"GMT+06:30 (Rangoon)"},
+ {1198,255,"GMT+07:00 (Bankok, Hanoi, Krasnoyarsk)"},
+ {1199,255,"GMT+07:00 (Jakarta)"},
+ {1200,255,"GMT+08:00 (Beijing, Taipei, Kuala Lumpur, Irkutsk)"},
+ {1201,255,"GMT+08:00 (Singapore)"},
+ {1202,255,"GMT+08:00 (Ulaanbaatar, Mongolia)"},
+ {1203,255,"GMT+08:00 (Perth)"},
+ {1204,255,"GMT+09:00 (Japan, Korea, Yakutsk)"},
+ {1205,255,"GMT+09:30 (Adelaide)"},
+ {1206,255,"GMT+09:30 (Darwin)"},
+ {1207,255,"GMT+10:00 (Guam)"},
+ {1208,255,"GMT+10:00 (Hobart)"},
+ {1209,255,"GMT+10:00 (Sydney, Melbourne, Canberra)"},
+ {1210,255,"GMT+10:00 (Brisbane)"},
+ {1211,255,"GMT+11:00 (Magadan, Solomon Is., New Caledonia)"},
+ {1212,255,"GMT+12:00 (Auckland, Wellington)",},
+ {1213,255,"GMT+12:00 (Fiji)"},
+ {1214,255,"GMT+13:00 (Nuku'alofa)"},
+ {1215,255,"Temperature"},
+ {1216,255,"Forecast"},
+ {1217,255,"Today"},
+ {1218,255,"Stock"},
+ {1219,255,"Last Updated"},
+ {1220,255,"Currency"},
+ {1221,32,  "RefreshStock"},
+ {1222,32,  "RefreshCur"},
+ {1223,32,  "ReverseCur"},
+ {1224,255, "Enable STAR key Keypad locking"},
+ {1225,255, "Password to lock/unlock"},
+ {1226,255, "NETWORK DOWN"},
+ {1227,255, "ACS URL"},
+ {1228,255, "Wrong Username/Password"},
+ {1229,255, "Invalid Serial Number"},
+ {1230,255, "TR-069 Username"},
+ {1231,255, "TR-069 Password"},
+ {1232,255, "Save Credentials"},
+ {1233,255, "Auto Login"},
+ {1234,255, "New Password"},
+ {1235,255, "Input New Password"},
+ {1236,255, "Fail Change password"},
+ {1237,255, "Password Changed"},
+ {1238,255, "Connecting..."},
+ {1239,255, "New passwords entries did not match"},
+ {1240,255, "Changing Password..."},
+ {1241,255, "Login Timeout"},
+ {1242,255, "Change Password Timeout"},
+ {1243,255, "Provision via ACS?"},
+ {1244,255, "Forwarded Calls"},
+ {1245,255, "Canceled Call Forward All"},
+ {1246,255, "Add"},
+ {1247,255, "New Forwarded Call"},
+ {1248,255, "New Forwarded Calls"},
+ {1249,255, "TR-069"},
+ {1250,255, "Periodic Inform Enable"},
+ {1251,255, "Periodic Inform Interval"},
+ {1252,255, "Connection Request Username"},
+ {1253,255, "Connection Request Password"},
+ {1254,255, "Change Password"},
+ {1255,255, "Enable Auto Login"},
+ {1256,255, "Disable Auto Login"},
+ {1257,255, "Confirm Change"},
+ {1258,255, "Conference URI"},
+ {1259,255, "Enable TR-069"},
+ {1260,255, "SUBSCRIBE for Registration"},
+ {1261,255, "Old Password"},
+ {1262,255, "Confirmed Password"},
+ {1263,255, "S/N"},
+ {1264,255, "Connection Timeout"},
+ {1265,255, "Dial DTMF"},
+ {1266,255, "New Firmware Available"},
+ {1267,255, "Upgrade to new version?"},
+ {1268,32, "Forwarded Call"},
+ {1269,32, "New"},
+ {1270,32, "Old"},
+ {1271,32, "China Telecom Mode"},
+ {1272,32, "From"},
+ {1273,32, "To"},
+ {1274,32, "Divt to"},
+ {1275,255, "Admin Login"},
+ {1276,255, "Time Settings"},
+ {1277,255, "GMT-06:00 (Guadalajara, Mexico City, Monterrey)"}, (Web, Basic Settings Page)
+ {1278,255, "GMT-07:00 (Chihuahua, La Paz, Mazatlan)"}, (Web, Basic Settings Page)
+ {1279,255, "GMT-08:00 (Baja California)"}, (Web, Basic Settings Page)
+ {1280,255, "Service Status"}, (Web, Status Page)
+ {1281,255, "Core Dump"}, (Web, Status Page)
+ {1282,255, "Send SIP Log"}, (web, Advanced Settings Page)
+ {1283,32, "Downloading SCR XML"}, (Gui, Warning message for Download SCR XML)
+ {1284,32, "Erasing SCR XML"}, (Gui, Warning message for "Erase Custom SCR)
+ {1285,255, "Enable Weather Update"}, (Web, Basic Setting Page)
+ {1286,255, "Enable Stock Update"}, (Web, Basic Setting Page)
+ {1287,255, "Enable Currency Update"}, (Web, Basic Setting Page)
+ {1288,255, "Stock Code"}, (Web, Basic Setting Page)
+ {1289,255, "Currency Code"}, (Web, Basic Setting Page)
+ {1290,255, "Select a Line or New Call" },
+ {1291,255, "New Call" },
+ {1292,32, "Transfer" },
+ {1293,255, "Auto-Attended Transfer" },
+ {1294,32, "Split" },
+ {1295,255,  "Canceled Call Forward All"},
+ {1296,255,  "Canceled Call Forward on Busy"},
+ {1297,255,  "Canceled Call Forward No Answer"},
+ {1298,32, "CallerID Disabled" }, (LCD, indication msg when you use *xx to disable CallerID)
+ {1299,32, "CallerID Enabled" }, (LCD, indication msg when you use *xx to enable CallerID)
+ {1300,255, "Open Internet" },(Web, Status Page)
+ {1301,255, "Full Cone NAT" },(Web, Status Page)
+ {1302,255, "Restricted Cone NAT" },(Web, Status Page)
+ {1303,255, "Port Restricted Cone NAT" },(Web, Status Page)
+ {1304,255, "Symmetric NAT" },(Web, Status Page)
+ {1305,255, "Symmetric UDP" },(Web, Status Page)
+ {1306,255, "UDP Blocked" },(Web, Status Page)
+ {1307,255, "Unknown NAT" },(Web, Status Page)
+ {1308,255, "TURN" },(Web, Status Page)
+ {1309,255, "UPnP" },(Web, Status Page)
+ {1310,255, "NAT-PMP" },(Web, Status Page)
+ {1311,255, "STUN" },(Web, Status Page)
+ {1312,255, "Self-Defined City Code" },(Web, Advanced Settings Page)
+ {1313,255, "Authentication Method"},
+ {1314,255, "Connection Request Port"},
+ {1315,255, "G.726-32 Packing Mode"}, (Web, Account Pages)
+ {1316,255, "Enter alphanumeric"}, (Web, Validation for alphanumeric)
+ {1317,255, "ASCII characters only"}, (Web, Validation for asciicharacters)
+ {1318,255, "No white space please"}, (Web, Validation for nowhitespace)
+ {1319,32, "EAP-MD5"}, (Web, Basic Setting Page)
+ {1320,32, "Mode"},
+ {1321,32, "802.1X"},
+ {1322,32, "VoiceMail"}, (Softkey, softkey for voicemail)
+ {1323,32, "Public Mode Login"}, (LCD, public mode menu title)
+ {1324,32, "Username"}, (LCD, public mode username label)
+ {1325,32, "Password"}, (LCD, public mode password label)
+ {1326,32, "Username is required"}, (LCD, public mode warning window)
+ {1327,32, "Password is required"}, (LCD, public mode warning window)
+ {1328,32, "Processing login request..."}, (LCD, public mode warning window)
+ {1329,32, "Processing logout request..."}, (LCD, public mode warning window)
+ {1330,32, "Request timeout"}, (LCD, public mode warning window)
+ {1331,32, "Logout failed"}, (LCD, public mode warning window)
+ {1332,32, "Login failed"}, (LCD, public mode warning window)
+ {1333,32, "Unable to access the server"}, (LCD, public mode warning window)
+ {1334,32, "Loading account information..."}, (LCD, public mode warning window)
+ {1335,32, "Saving account information..."}, (LCD, public mode warning window)
+ {1336,255, "Enter a valid IPv4 address"}, (Web, Validation for ipv4part)
+ {1337,32, "No records match"}, (LCD, Empty record page)
+ {1338,255, "Support Hotline"}, (Web, customer support number, this is for Tianwei OEM model only)
+ {1339,255, "Some of the configuration changes will require reboot to take effect."}, (Web, update message)
+ {1340,255, "Disable DHCP Option 248"}, (Web, Advanced settings)
+ {1341,32, "Network Status"}, (Gui, Menu)
+ {1343,32, "TR-069 should be connected!"}, (LCD, tr-069 warning window)
+ {1344,32, "Wrong number"}, (LCD, ChinaTelecom OEM Display Strings upon receiving 404)
+ {1345,32, "No answer"},    (LCD, ChinaTelecom OEM Display Strings upon receiving 408)
+ {1346,32, "Line is busy"}, (LCD, ChinaTelecom OEM Display Strings upon receiving 486)
+ {1347,32, "DNS 1"}, (LCD, Status, Netowrk Status)
+ {1348,32, "DNS 2"}, (LCD, Status, Netowrk Status)
+ {1349,32, "123"}, (LCD, public mode softkey label)
+ {1350,32, "abc"}, (LCD, public mode softkey label)
+ {1351,255, "Do not escape '#' as %23 in SIP URI"}, ( Web, advanced setting )
+ {1352,32, "Clear All"}, (LCD, call history page)
+ {1353,255, "Confirm to clear all call history?"}, (LCD, clearall call history page)
+ {1354,32, "Select line on hold"}, (LCD, N-way conference add)
+ {1355,255, "SIP URI Scheme when using TLS"}, (Web, Account setting page)
+ {1356,255, "(e.g., http://acs.mycompany.com, or IP address)"}, ( Web, advanced setting )
+ {1357,255, "Feature Key Synchronization"}, ( Web, advanced setting )
+ {1358,255, "Reregister before Expiration"}, (Web, Account setting page)
+ {1359,255, "in seconds. Default 0 second"}, (Web, Account setting page)
+ {1360,32, "ConfCall"}, (Softkey, after conference hold)
+ {1361,32, "ReConf"}, (Softkey, after call made for conference)
+ {1362,32, "Call Features"} (LCD MENU, Call features)
+ {1363,32, "Forward All"} (LCD MENU, Call features)
+ {1364,32, "Forward Busy"} (LCD MENU, Call features)
+ {1365,32, "Forward No Answer"} (LCD MENU, Call features)
+ {1366,32, "No Answer Timeout"} (LCD MENU, Call features)
+ {1367,32, "Account is currently disabled."} (LCD MENU, Call features warning msg)
+ {1368,32, "Account is not registered."} (LCD MENU, Call features warning msg)
+ {1369,32, "Disable"} (Softkey, Call features)
+ {1370,32, "Enable"} (Softkey, Call features)
+ {1371,32, "Input value is required"} (LCD MENU, Call features warning msg)
+ {1372,32, "FwdCall"},
+ {1373,32, "Call Forward Number"},
+ {1374,32, "Call Forward Type"},
+ {1375,32, "Call Forward Immediate"},
+ {1376,32, "Call Forward Delayed"},
+ {1377,255,"Use Actual Ephemeral Port in Contact with TCP/TLS"},(Web, Account setting page)
+ {1378,32, "Voice Mails"} (LCD MENU, Voicemails)
+ {1379,32, "Please configure Voicemail UserID"} (LCD MENU, Voicemails warning msg)
+ {1380,32, "Keypad is locked"} (LCD, gxp1400 keypad lock)
+ {1381,32, "IPv4"} (LCD, DirectIP screen, Softkey)
+ {1382,32, "IPv6"} (LCD, DirectIP screen, Softkey)
+ {1383,32, "Internet Protocol"} (Web, Basic setting page)
+ {1384,32, "Prefer IPv4"} (Web, Basic setting page)
+ {1385,32, "Prefer IPv6"} (Web, Basic setting page)
+ {1386,255, "Allow DHCP Option120 to override SIP server"} (Web, basic setting page)
+ {1387,255, "Enter a valid IPv4/IPv6 address"}, (Web, Validation for ipv4ipv6)
+ {1388,32, "CONNECTED"} (LCD MENU, Status)
+ {1389,32, "Are you sure you want to perform factory reset?"} (LCD, Menu factory reset)
+ {1390,32, "You will lose all your configuration settings and data. Confirm to continue?"} (LCD, Menu factory reset level2)
+ {1391,32, "TR-069 Timeout"} (LCD Warning Screen, msg on warning bar when TR-069 connection get timeout)
+ {1392,32, "Network Connection Error"} (LCD Warning Screen, msg on warning bar when network connect has problem)
+ {1393,32, "A reboot is required for configuration change to take effect. Reboot now?" } (LCD, Menu to reboot after configuration change)
+ {1394,32, "Booting..."} (LCD, System Bootup message)
+ {1395,32, "Starting DHCP..."} (LCD, System Bootup message)
+ {1396,32, "Starting DHCP...done"} (LCD, System Bootup message)
+ {1397,32, "Loading user data..."} (LCD, System Bootup message)
+ {1398,32, "Loading user data...done"} (LCD, System Bootup message)
+ {1399,32, "Loading application..."} (LCD, System Bootup message)
+ {1400,32, "Starting PPPoE..."} (LCD, System Bootup message)
+ {1401,32, "Starting PPPoE...done"} (LCD, System Bootup message)
+ {1402,32, "Setting static IP"} (LCD, System Bootup message)
+ {1403,32, "PPPoE: Connecting"} (LCD, System Bootup message)
+ {1404,32, "PPPoE: Authenticating"} (LCD, System Bootup message)
+ {1405,32, "PPPoE: Get Address"} (LCD, System Bootup message)
+ {1406,32, "PPPoE: Connected"} (LCD, System Bootup message)
+ {1407,32, "PPPoE: Auth. Failed"} (LCD, System Bootup message)
+ {1408,32, "Firmware Recovery"}
+ {1409,32, "Firmware Update"}
+ {1410,32, "Upgrading"}
+ {1411,32, "Downloading Ring Tones"}
+ {1412,32, "Recovery Incomplete"}
+ {1413,32, "Rebooting"}
+ {1414,32, "Downloading"}
+ {1415,32, "DISCONNECTED"} (LCD MENU, TR069 Status)
+ {1416,255, "Password needs to be at least 6 digits with combination of alphabets and numbers"} (Web, Password validation message)
+ {1417,255, "802.1Q/VLAN Tag needs to be greater than 0"} (Web, 802.1 condition validatoin)
+ {1418,255, "Value between [0] and [1]"} (Web, Range value validation)
+ {1419,255, "No Authentication"} (Web, Advanced settings: Authentication Method)
+ {1420,255, "Basic"} (Web, Advanced settings: Authentication Method)
+ {1421,255, "Digest"} (Web, Advanced settings: Authentication Method)
+ {1422,255, "Wrong Old Password"} (LCD MENU, TR-069:Change Password:Old password, error message when user input wrong old password)
+ {1423,255, "Jitter Buffer Type"} (Web, Account page, for define jitter buffer type)
+ {1424,255, "Fixed"} (Web, Account page, Fixed jitter buffer type)
+ {1425,255, "Adaptive"} (Web, Account page, Adaptive jitter buffer type)
+ {1426,255, "Jitter Buffer Length"} (Web, Account page, for define jitter buffer length)
+ {1427,255, "Value is required"} (Web, required field validation)
+ {1428,255, "Cannot Delete/Edit Fixed Group"} (LCD, Warning message for trying to delete a permanent group)
+ {1429,255, "Too Many Groups!" } (LCD, Warning message for trying to add more than maximum groups)
+ {1430,255, "Group" } (MENU LCD) (LCD, Menu Title)
+ {1431,255, "Cannot Join Group" } (LCD, Warning message for joining non existent group)
+ {1432,255, "Invalid Group Name" } (LCD, Warning message for invalid group names)
+ {1433,255, "Search Result" } (LCD, Phonebook search result page title)
+ {1434,255, "Groups"} (MENU LCD, Title for Menu Groups Page)
+ {1435,255, "Group already exists!"} (LCD, Warning message for duplicate Groups)
+ {1436,255, "Family"} (LCD, Permanent Group Name)
+ {1437,255, "Friends"} (LCD, Permanent Group Name)
+ {1438,255, "Work"} (LCD, Permanent Group Name)
+ {1439,32, "Tag must be between 0 and 4095"} (LCD, Warning message for invalid 802.1 tag)
+ {1440,32, "Priority must be 0-7"} (LCD, Warning message for invalid 802.1 priority)
+ {1441,32, "Tag must be non zero first"} (LCD, Warning message for 802.1 priority without tag)
+ {1442,255, "First Name"} (Web, Phonebook List - Column Name)
+ {1443,255, "Last Name"} (Web, Phonebook List - Column Name)
+ {1444,255, "Phone Number"} (Web, Phonebook List - Column Name)
+ {1445,255, "No record"} (Web, Phonebook List - Message)
+ {1446,255, "No matched record"} (Web, Phonebook List - Message)
+ {1447,255, "Export Phonebook XML"} (Web, Phonebook Page - Links)
+ {1448,255, "Import Phonebook XML"} (Web, Phonebook Page - Links)
+ {1449,255, "Phonebook Import"} (Web, Phonebook Page - Import Modal)
+ {1450,255, "Uploading..."} (Web, Phonebook Page - Import Modal)
+ {1451,255, "Upload"} (Web, Phonebook Page - Import Modal)
+ {1452,255, "File upload success. Please wait while phone is processing the import data..."} (Web, Phonebook Page - Import Modal)
+ {1453,255, "Previous uploaded phonebook hasn't been processed yet. Please wait..."} (Web, Phonebook Page - Import Modal)
+ {1454,255, "File upload failed"} (Web, Phonebook Page - Import Modal)
+ {1455,255, "Calling"} (Web, Phonebook Page - Calling Modal)
+ {1456,255, "Please wait while the phone is processing your request..."} (Web, Phonebook Page - Calling Modal)
+ {1457,255, "Calling [0]..."} (Web, Phonebook Page - Calling Modal)
+ {1458,255, "SUCCESS"} (Web, Phonebook Page - Calling Modal)
+ {1459,255, "FAILED"} (Web, Phonebook Page - Calling Modal)
+ {1460,255, "Next"} (Web, Phonebook List - Paging)
+ {1461,255, "Previous"} (Web, Phonebook List - Paging)
+ {1462,255, "Contacts"} (Web, Navigation Menu - TOP)
+ {1463,255, "PHONEBOOK"} (Web, Navigation Menu - SUB)
+ {1464,255, "Search Phonebook"} (Web, Phonebook search input watermark)
+ {1465,32, "Processing web update"} (LCD, Warning Message: System Update)
+ {1466,255, "Account"} (Web, Contact Editor)
+ {1467,255, "Groups"} (Web, Contact Editor)
+ {1468,255, "Save"} (Web, Editor Options)
+ {1469,255, "Delete"} (Web, Editor Options)
+ {1470,255, "Edit Contact"} (Web, Contact Editor)
+ {1471,255, "Add Contact"} (Web, Contact Editor)
+ {1472,255, "Add New Contact"} (Web, Phonebook Page - Links)
+ {1473,255, "Sending request"} (Web, Phonebook Page - Process Result)
+ {1474,255, "Request received"} (Web, Phonebook Page - Process Result)
+ {1475,255, "Processing request"} (Web, Phonebook Page - Process Result)
+ {1476,255, "Process completed"} (Web, Phonebook Page - Process Result)
+ {1477,255, "Sending request timeout"} (Web, Phonebook Page - Process Result)
+ {1478,255, "Selected web record does not match the stored records in the system"} (Web, Phonebook Page - Process Result)
+ {1479,255, "Unable to find the selected web record in the system"} (Web, Phonebook Page - Process Result)
+ {1480,255, "Phonebook reached its maxiume allowed size. Can't add new entry anymore"} (Web, Phonebook Page - Process Result)
+ {1481,255, "Unhandled adding phonebook entry error"} (Web, Phonebook Page - Process Result)
+ {1482,255, "Processing entry failed due to the given record is invalid"} (Web, Phonebook Page - Process Result)
+ {1483,255, "Phonebook is currently busy"} (Web, Phonebook Page - Process Result)
+ {1484,255, "All Groups"} (Web, Phonebook Page - Group Selector)
+ {1485,255, "Please enter only digits"} (Web, Validation for digitonly)
+ {1486,32, "Edit and Dial"} (LCD, call history entry and phonebook entry)
+ {1487,255, "Call History Flash Writing"} (Web, call history saving parameter)
+ {1488,255, "0 means this option is disabled"} (Web, call history saving parameter)
+ {1489,255, "Write Timeout"} (Web, call history saving parameter)
+ {1490,32, "3-way Conference"}
+ {1491,32, "enable FLASH key as CONF:"}
+ {1492,255, "Max Unsaved Log"} (Web, call history saving parameter)
+ {1493,32, "Keyboard Diagnostic"}
+ {1494,32, "Press all available keys..."}
+ {1495,32, "DONE. Press HOOK to exit..."}
+ {1496,32, "Date Display Format"}
+ {1497,32, "yyyy-mm-dd"}
+ {1498,32, "mm-dd-yyyy"}
+ {1499,32, "dd-mm-yyyy"}
+ {1500,32, "dddd, MMMM dd"}
+ {1501,32, "MMMM dd, dddd"}
+ {1502,32, "$M$D, $W"} (Date time format. Do not translate. Rearrange only.)
+ {1503,32, "$Y-$o-$B"} (Date time format. Do not translate. Rearrange only.)
+ {1504,32, "$o-$B-$Y"} (Date time format. Do not translate. Rearrange only.)
+ {1505,32, "$B-$o-$Y"} (Date time format. Do not translate. Rearrange only.)
+ {1506,255, "(some options might not fit for the screen layout) "}
+ {1507,255, "Copyright"} (Web, copyright statement)
+ {1508,32, "ResumeApp"} (Softkey, Resume Application)
+ {1509,32, "Quit Application"} (LCD, MenuTitle- Exit XML App)
+ {1510,32, "Are you sure you want to exit the current application?"} (LCD, MenuBody- Exit XML App)
+ {1511,255, "Empty core dump files"} (Web, function to empty core dump files)
+ {1512,32, "Enable Auto Recovery"} (LCD, auto recover message)
+ {1513,255, "Auto recover from abnormal"} (Web, auto recover option)
+ {1514,32, "%s"} (LCD, CallStatus String: EMPTY INPUT %s as simply display status)
+ {1515,32, "%s Dialing"} (LCD, CallStatus String: DIALING %s as Account)
+ {1516,32, "Calling %s"} (LCD, CallStatus String: RINGING %s as calling number)
+ {1517,32, "%s Calling"} (LCD, CallStatus String: CALLING %s as calling number)
+ {1518,32, "Talking to %s"} (LCD, CallStatus String: CONNECTED %s as calling number)
+ {1519,32, "Holding %s"} (LCD, CallStatus String: ONHOLD %s as calling number)
+ {1520,32, "Connecting to %s Failed"} (LCD, CallStatus String: FAILED %s as calling number)
+ {1521,32, "Transferring to %s"} (LCD, CallStatus String: TRANSFER %s as calling number)
+ {1522,32, "Please wait..."} (LCD, Callscreen waiting msg)
+ {1523,32, "Conference Call"} (LCD, Callscreen Conference call)
+ {1524,32, "Remote Party"} (LCD, Callscreen strings)
+ {1525,32, "Dial number OR select attended line"} (LCD, Callscreen strings)
+ {1526,32, "Transferring Call"} (LCD, Callscreen strings)
+ {1527,32, "Invalid IP Address"} (LCD, Direct IP Call strings)
+ {1528,32, "%s Paging"} (LCD, CallStatus String: PAGING %s as calling number)
+ {1529,32, "Disabled Call Waiting for all calls"} (LCD, call feature, *50)
+ {1530,32, "Enabled Call Waiting for all calls"} (LCD, call feature, *51)
+ {1531,255, "Download Device Configuration"} (Web, Download Device Configuration title/Advanced Settings Page)
+ {1532,255, "Download"} (Web, Download Device Configuration button/Advanced Settings Page)
+ {1533,255, "Confirm Password"} (Web, confirm password label)
+ {1534,255, "Password mismatch"} (Web, confirm password error)
+ {1535,32, "Phonebook is full"} (LCD, Add new entry)
+ {1536,255, "Always Ring Speaker"} (Web, Always ring speaker option)
+ {1537,32, "%s °F"} (LCD, F Degree format)
+ {1538,32, "%s °C"} (LCD, C Degree format)
+ {1539,22, "New IM(s) "} (LCD, New Instant Messages)
+ {1540,18, "SPEED DIAL 19"} (LCD, Speed dial keys)
+ {1541,18, "SPEED DIAL 20"} (LCD, Speed dial keys)
+ {1542,18, "SPEED DIAL 21"} (LCD, Speed dial keys)
+ {1543,18, "SPEED DIAL 22"} (LCD, Speed dial keys)
+ {1544,18, "SPEED DIAL 23"} (LCD, Speed dial keys)
+ {1545,18, "SPEED DIAL 24"} (LCD, Speed dial keys)
+ {1546,18, "LINE7"} (LCD, Line Key)
+ {1547,18, "LINE8"} (LCD, Line Key)
+ {1548,255, "Handset TX gain (dB)"} (Web, basic config page)
+ {1549,32, "FwdedCalls"} (Softkey, Softkey for Forwaded CallLog)
+ {1550,32, "Forward Call"} (LCD Menu, forward call in preference)
+ {1551,32, "LINE%s"} (LCD Screen, display name of the LINE, %s as line number)
+ {1552,32, "Transfer"} {MPK function}
+ {1553,32, "SPEED DIAL %s"}
+ {1554,32, "Account %s"}
+ {1555,32, "ACCOUNT %s"}
+ {1556,32, "Multi Purpose Key %s"}
+ {1557,32, "choice %s"}
+ {1558,32, "EXT Key %s"}
+ {1559,32, "SOFT KEY %s"}
+ {1560,32, "EXT %s"}
+ {1561,32, "custom ring tone %s"}
+ {1562,32, "CallPark"} {MPK function}
+ {1563,32, "Intercom"} {MPK function}
+ {1564,255, "IPv4 Address"} {web, status page}
+ {1565,255, "IPv6 Address"} {web, status page}
+ {1566,32, "Hold"} (LCD, Softkey Call Hold)
+ {1567,32, "Resume"} (LCD, Softkey Call Unhold)
+ {1568,32, "Voicemail"} {MPK function}
+ {1569,32, "Server Address"}
+ {1570,32, "Port"}
+ {1571,32, "Base"}
+ {1572,32, "User Name"}
+ {1573,32, "Password"}
+ {1574,32, "LDAP Number Filter"}
+ {1575,32, "LDAP Name Filter"}
+ {1576,255, "LDAP Version"} (WEB, Advanced setting page, LDAP related setting)
+ {1577,32, "LDAP Name Attributes"}
+ {1578,32, "LDAP Number Attributes"}
+ {1579,32, "LDAP Display Name"}
+ {1580,32, "Max. Hits"}
+ {1581,32, "Search Timeout"} (WEB, Advanced setting page, LDAP related setting)
+ {1582,32, "Sort Results"}
+ {1583,255, "LDAP Lookup"} (WEB, Advanced setting page, LDAP related setting)
+ {1584,255, "Incoming Calls"} (WEB, Advanced setting page, LDAP related setting)
+ {1585,32, "View Contact"}
+ {1586,255, "Receive only on speaker"} (WEB, comment for possible one way audio when configure)
+ {1587,255, "Auto-configured"} (web, basic setting page, IPv6 selection)
+ {1588,255, "Statically configured"} (web, basic setting page, IPv6 selection)
+ {1589,255, "Full Static"} (web, basic setting page, IPv6 Static selection)
+ {1590,255, "Prefix Static"} (web, basic setting page, IPv6 Static selection)
+ {1591,255, "Static IPv6 Address"} (web, basic setting page, IPv6 full Static IP address)
+ {1592,255, "IPv6 Prefix (64 bits)"} (web, basic setting page, IPv6 IP Prefix)
+ {1593,255, "IPv6 Prefix length"} (web, basic setting page, IPv6 IP Prefix length)
+ {1594,255, "Proxy"} (web, basic setting page, HTTP and HTTPS Proxy)
+ {1595,255, "(0-32000, 0 means all)"} (web, advanced setting page, Max Hits. for LDAP)
+ {1596,255, "LDAP Search"} (WEB, MPK function)
+ {1597,32, "LDAP Directory Search"} (LCD, LDAP Directory Search Title)
+ {1598,32, "Filter"} (Softkey, Search Filter)
+ {1599,32, "All"} (LCD, LDAP search filter option)
+ {1600,32, "Names"} (LCD, LDAP search filter option)
+ {1601,32, "Numbers"} (LCD, LDAP search filter option)
+ {1603,255, "Offhook timeout"} (WEB, advanced setting page)
+ {1604,255, "(10-60 in seconds, default 30 seconds)"} (WEB, advanced setting page)
+ {1605,255, "LDAP"} (softkey, displayed on idle/call screen when LDAP is configured)
+ {1606,255, "Outgoing Calls"} (WEB, Advanced setting page, LDAP related setting)
+ {1607,255, "Version 2"} (WEB, Advanced setting page, LDAP related setting)
+ {1608,255, "Version 3"} (WEB, Advanced setting page, LDAP related setting)
+ {1609,255, "(0-180, in seconds)"} (WEB, Advanced setting page, LDAP related setting)
+ {1610,32, "Sorted"} (LCD, LDAP search result option)
+ {1611,32, "Unsorted"} (LCD, LDAP search result option)
+ {1612,32, "Account is shared line."} (LCD, Call feature error)
+ {1613,255, "Headset Type"} (WEB, Advanced setting, EHS headset setting)
+ {1614,255, "Normal"} (WEB, Advanced setting, EHS headset setting)
+ {1615,255, "Plantronics EHS"} (WEB, Advanced setting, EHS headset setting)
+ {1616,255, "Match Incoming Caller ID"} (WEB, Account setting, Ringtone setting)
+ {1617,255, "Matching Rules"} (WEB, Account setting, Ringtone setting)
+ {1618,255, "Distinctive Ringtones"} (WEB, Account setting, Ringtone setting)
+ {1619,32, "LDAP Searching..."} (Menu, LDAP search status warning window)
+ {1620,32, "Search Successful"} (Menu, LDAP search status warning window)
+ {1621,32, "No Match Found"} (Menu, LDAP search status warning window)
+ {1622,32, "Invalid Attribute"} (Menu, LDAP search status warning window)
+ {1623,32, "Search Failed"} (Menu, LDAP search status warning window)
+ {1624,255, "Allow only A-Z, a-z, and 0-9"} (WEB, Validation, valid password)
+ {1625,32, "Telephone"} (LDAP detail)
+ {1626,32, "Description"} (LDAP detail)
+ {1627,32, "Search Timeout"} (Menu, LDAP search status warning window)
+ {1628,32, "Disable Telnet"} (WEB, Advanced setting page, Telnet)
+ {1629,255, "In-call dial number on pressing transfer key"} (WEB, advanced page)
+ {1630,255, "The WebGUI has been locked out for 15 minutes."} (WEB, login attempts)
+ {1631,255, "Use phonebook key for LDAP search"} (WEB, advnaced page)
+ {1632,32, "Out of service area"} (LCD, TR-069 Warning window)
+ {1633,32, "SN duplicated"} (LCD, TR-069 Warning window)
+ {1634,32, "Too many incorrect entries"} (LCD, TR-069 Warning window)
+ {1635,32, "Emerg_call"} (Softkey, Public mode emergency call)
+ {1636,32, "EMERGENCY CALL"} (Account name, Public mode emergency call)
+ {1637,255, "Secondary Outbound Proxy"} (WEB, Account)
+ {1638,32, "Advice of Charge"} (LCD, Call Screen String)
+ {1639,255, "Lookup Display Name"} (WEB, LDAP)
+ {1640,255, "CPE SSL Certificate"} (WEB, Advanced setting)
+ {1641,255, "CPE SSL Private Key"} (WEB, Advanced setting)
+ {1642,255, "Phone"} (WEB, PHONE, Title)
+ {1643,255, "Dial Number"} (WEB, PHONE, Label)
+ {1644,255, "First Available"} (WEB, PHONE, Option Label)
+ {1645,255, "Dial"} (WEB, PHONE, Button)
+ {1646,255, "Your session will expire in less than one minute."} (WEB, Session Timeout)
+ {1647,255, "Click &quot;OK&quot; to extend your online session or click &quot;Log Off&quot; to end the session immediately."} (WEB, Session Timeout)
+ {1648,255, "OK"} (WEB, Session Timeout, button OK)
+ {1649,255, "Log Off"} (WEB, Session Timeout, button Log Off)
+ {1650,32, "Edit/Dial"} (Menu Softkey, call log entry page)
+ {1651, 40, "Headset"} (Headset Softkey)
+ {1652,32, "Agent"} (Call Center Publish Mode, LCD, softkey label)
+ {1653,255, "Publish To Call Center"} (Call Center Publish Mode, LCD , web)
+ {1654,255, "Online"}(Call Center Publish Mode, LCD)
+ {1655,255, "Busy"}(Call Center Publish Mode, LCD)
+ {1656,255, "Offline"}(Call Center Publish Mode, LCD)
+ {1657,255, "Publish Mode"}(Call Center Publish Mode, LCD)
+ {1658,255, "On The Phone"}(Call Center Publish Mode, LCD)
+ {1659,255, "Away"}(Call Center Publish Mode, LCD)
+ {1660,255, "This file already exist. Please delete previous file before uploading a new file."} (WEB, OPENVPN)
+ {1661,255, "OpenVPN Enable" }(WEB, OPENVPN)
+ {1662,255, "OpenVPN Server Address" }(WEB, OPENVPN)
+ {1663,255, "OpenVPN Server Port" }(WEB, OPENVPN)
+ {1664,255, "OpenVPN CA" }(WEB, OPENVPN)
+ {1665,255, "OpenVPN Certificate" }(WEB, OPENVPN)
+ {1666,255, "OpenVPN Client Key" }(WEB, OPENVPN)
+ {1667,255, "File successfully deleted" }(WEB, OPENVPN)
+ {1668,255, "Error deleting file" }(WEB, OPENVPN)
+ {1669,255, "OpenVPN IP" }(WEB, OPENVPN)
+ {1670,255, "Caller ID Display"} (WEB, Caller ID)
+ {1671,255, "From Header"} (WEB, Caller ID)
+ {1674,255, "Secret/Private Key Password"} (WEB, 802.1x)
+ {1675,255, "CA Certificate"} (WEB, 802.1x)
+ {1676,255, "Client Certificate"} (WEB, 802.1x)
+ {1677,255, ".pem file"} (WEB, 802.1x)
+ {1678,255, "with both certificate and private key"} (WEB, 802.1x)
+ {1679,255, "Yes, check for upgrade every day"} (WEB, auto provision)
+ {1680,255, "Yes, check for upgrade every week"} (WEB, auto provision)
+ {1681,255, "Hour of the Day(0-23)"} (WEB, auto provision)
+ {1682,255, "Day of the Week(0-6)"} (WEB, auto provision)
+ {1683,32, "EAP-TLS"}, (Web, Basic Setting Page)
+ {1684,32, "EAP-PEAPv0/MSCHAPv2"}, (Web, Basic Setting Page)
+ {1685,32, "File exists"}, (Web, Basic Setting Page)
+ {1686,32, "File doesn't exist, see WebUI"}, (Web, Basic Setting Page)
+ {1687,32, "Mirrored"}, (Web, Basic Setting Page, PC Port)
+ {1688,32, "CallCenter"}, (SOFTKEY, BS call center)
+ {1689,255, "Disposition Code"}, (LCD, call center MENU option)
+ {1690,255, "Emergency Escalation"}, (LCD, call center MENU option)
+ {1691,255, "Customer Originated Trace"}, (LCD, call center MENU option)
+ {1692,255, "Call Information"}, (LCD, call center MENU option )
+ {1693,255, "Waiting Time"}, (LCD, call center call info )
+ {1694,255, "User ID"}, (LCD, call center call info )
+ {1695,255, "Call Center Name"}, (LCD, call center call info )
+ {1696,255, "Calls in Queue"}, (LCD, call center call info )
+ {1697,255, "Longest Waiting Time"}, (LCD, call center call info )
+ {1698,32, "Name"}, (LCD, LDAP result detail)
+ {1699,255, "Default"}, (WEB, account setting)
+ {1700,255, "Use Privacy Header"}, (WEB, account setting)
+ {1701,255, "Use P-Preferred-Identity Header"}, (WEB, account setting)
+ {1702,255, "Hoteling Event"}, (LCD, Web, call center MENU option)
+ {1703,255, "BS-CCenter"}, (LCD, Web, call center MENU option)
+ {1704,255, "Signed In"}, (LCD, call center MENU option)
+ {1705,255, "Signed Out"}, (LCD, call center MENU option)
+ {1706,255, "GuestAddress"}, (LCD, call center MENU option)
+ {1707,255, "Call Center Hoteling Feature"}, (LCD, call center MENU option)
+ {1708,255, "Call Center Guest Login"}, (LCD, call center MENU option)
+ {1709,255, "BS Call Center"}, (LCD, Web, call center MENU option)
+ {1710,255, "Call Center Status"}, (LCD, Web, call center MENU option)
+ {1711,255, "Agent Status"}, (LCD, Web, call center MENU option)
+ {1712,255, "Sign-In"}, (LCD, Web, call center MENU option)
+ {1713,255, "Sign-Out"}, (LCD, Web, call center MENU option)
+ {1714,255, "Unavailable"}, (LCD, Web, call center MENU option)
+ {1715,255, "Available"}, (LCD, Web, call center MENU option)
+ {1716,255, "Wrap-Up"}, (LCD, Web, call center MENU option)
+ {1717,255, "Call Center Agent Status"}, (LCD, call center MENU option)
+ {1718,32, "ParkedCalls"}, (SOFTKEY)
+ {1719,32, "Parked Calls"}, (LCD, Menu Title)
+ {1720,255, "GMT-05:00 (Eastern Time without daylight saving)"}, (Web, config2 page)
+ {1721,255, "When this item is enabled, Feature Key Synchronization will be enabled regardless of web settings."}, (Web, call center, account page)
+ {1722,255, "Call Center Agent Feature" }
+ {1723,255, "Change Agent Status" }
+ {1724,255, "only one g729 is allowed in Conf" }, (LCD, warning window on pressing conf key)
+ {1725,255, "Call-Waiting Tone Gain"}, (WEB, Advanced Setting page)
+ {1726,255, "SIP Date Header Priority"}, (WEB, Advanced Setting page)
+ {1727,255, "NTP First"}, (WEB, Advanced Setting page)
+ {1728,255, "Date Header First"}, (WEB, Advanced Setting page)
+ {1729,255, "Low"}, (WEB, Advanced Setting page)
+ {1730,255, "Medium"}, (WEB, Advanced Setting page)
+ {1731,255, "High"}, (WEB, Advanced Setting page)
+ {1732,255, "DND Call Feature On"}, (WEB, Account Setting page)
+ {1733,255, "DND call Feature Off"}, (WEB, Account Setting page)
+ {1734,255, "Date Header Account"}, (WEB, Advanced Setting page)
+ {1735,255, "logged In"}, (LCD, call center MENU option)
+ {1736,255, "logged Out"}, (LCD, call center MENU option)
+ {1737,255, "No New Firmware"}, (LCD, TR069 no new firmware warning message)
+ {1738,255, "Check Upgrade"}, (LCD, TR069 MENU option)
+ {1739,255, "Checking upgrade will be running in background"}, (LCD, TR069 MENU warning message)
+ {1740,255, "Authenticate Incoming INVITE"},(WEB, Account Setting page)
+ {1741,255, "Accept Incoming SIP from Proxy Only"},(WEB, Account Setting page)
+ {1742,255, "Unavailable Code"},(LCD, BS Call Center Menu)
+ {1743,255, "Use First Matching Vocoder in 200OK SDP"},(WEB, Account Setting page)
+ {1744,32, "Mute"},(Softkey, call screen on gxp1160)
+ {1745,255, "Power Source"},(LCD, Status Menu)
+ {1746,255, "PSU"},(LCD, Status Menu)
+ {1747,255, "PoE"},(LCD, Status Menu)
+ {1748,255, "Star Key Lock"},(LCD, Preference Menu)
+ {1749,255, "Enable/Disable"},(LCD, star key lock in Preference Menu)
+ {1750,255, "Use MUTE Key as DND"},(WEB, Advanced Setting page)
+ {1751,255, "Upgrade Notice"},(LCD, firmware upgrading window when receiving request from system side)
+ {1752,255, "New firmware is detected."},(LCD, firmware upgrading window when receiving request from system side)
+ {1753,255, "Do you want to upgrade now?"},(LCD, firmware upgrading window when receiving request from system side)
+ {1754,255, "Phone will start to download new phonebook XML file."},(LCD, phonebook download confirm Menu)
+ {1755,32, "New"},(LCD, Softkey)
+ {1756,32, "DeleteAll"},(LCD, Softkey)
+ {1757,32, "Broadsoft Phonebook"},(LCD, Menu)
+ {1758,32, "Local Phonebook"},(LCD, Menu)
+ {1759,32, "Local Group"},(LCD, Menu)
+ {1760,32, "Resort"},(LCD, Softkey)
+ {1761,32, "DeleteAll"},(LCD, Softkey)
+ {1762,255, "Broadsoft Phonebook List"},(LCD, Broadsoft phonebook result window titile)
+ {1763,255, "Group ID"},(LCD, Broadsoft phonebook result)
+ {1764,255, "Department"},(LCD, Broadsoft phonebook result)
+ {1765,255, "Broadsoft Call Log"},(LCD, Broadsoft call log window titile)
+ {1766,255, "Broadsoft Call Log List"},(LCD, Broadsoft call log result window titile)
+ {1767,255, "Broadsoft Call Log Entry"},(LCD, Broadsoft call log entry window titile)
+ {1768,255, "Broadsoft Phonebook Entry"},(LCD, Broadsoft phonebook rentry window titile)
+ {1769,255, "Broadsoft Xsi Failed"},(LCD, Broadsoft Xsi warning window)
+ {1770,255, "Broadsoft Search"},(LCD, Broadsoft phonebook search window titile)
+ {1771,255, "Deleting"},(LCD, Broadsoft call log warning window)
+ {1772,255, "None"},(LCD, Menu)
+ {1773,255, "Send"},(LCD, Menu and soft key for IM)
+ {1774,255, "Content"},(LCD, Menu for IM)
+ {1775,255, "New Message"},(LCD, Menu for IM)
+ {1776,255, "Inbox"},(LCD, Menu for IM)
+ {1777,255, "Sent successfully"},(LCD, Menu for IM)
+ {1778,255, "Sending failed"},(LCD, Menu for IM)
+ {1779,32, "Genesys"},(softkey, genesys)
+ {1780,255, "Genesys Login Status"},(LCD, genesys menu)
+ {1781,255, "Genesys Login"},(LCD, genesys menu)
+ {1782,255, "Genesys Logout"},(LCD, genesys menu)
+ {1783,255, "Do you want to logout?"},(LCD, genesys menu)
+ {1784,32, "Reply"},(LCD, soft key for Instant message entry menu)
+ {1785,255, "Unlock attempt remaining: %s"},(LCD, warning window for star keypad lock)
+ {1786,255, "Unable to unlock for %s min."},(LCD, warning window for star keypad lock)
+ {1787,255, "Try to unlock later"},(LCD, warning window for star keypad lock)
+ {1788,255, "UCM Connection"},(LCD, UCM connection menu)
+ {1789,255, "UCM Server List"}, (LCD, inside UCM connection menu)
+ {1790,255, "Input Server IP Manually"}, (LCD, inside UCM connection menu)
+ {1791,255, "Searching..."}, (LCD, inside UCM connection menu)
+ {1792,32, "RecordOn"}, (LCD, UCM call softkey)
+ {1793,32, "RecordOff"}, (LCD, UCM call softkey)
+ {1794,32, "CallPark"} (LCD, UCM call softkey)
+ {1795,255, "Available User List"}, (LCD, inside UCM connection menu)
+ {1796,255, "Connecting to UCM server..."}, (LCD, warning window on connecting to ucm server)
+ {1797,255, "Provision Req. Successful"}, (LCD, inside UCM connection menu)
+ {1798,255, "Provision Req. Failed"}, (LCD, warning window on connecting to ucm server)
+ {1799,32, "Connect"}, (Softkey, UCM)
+ {1800,255, "Invalid IP!"}, (LCD, UCM Manual connect)
+ {1801,255, "Invalid port!"}, (LCD, UCM Manual connect)
+ {1802,255, "User-Account Selection"}, (LCD, UCM connection menu)
+ {1803,32, "ASSIGN"}, (LCD, UCM connection softkey)
+ {1804,32, "MODIFY"}, (LCD, UCM connection softkey)
+ {1805,255, "Available Account"}, (LCD, UCM connection menu)
+ {1806,255, "Assign Confirmation"}, (LCD, UCM connection menu)
+ {1807,255, "Request UCM for new configuration (Current configuration will be overwritten)"}, (LCD, UCM connection menu)
+ {1808,255, "Send Assignment"}, (LCD, UCM connection menu)
+ {1809,255, "office phone"}, (LCD, UCM connection menu)
+ {1810,255, "call center phone"}, (LCD, UCM connection menu)
+ {1811,255, "Login/Logout"}, (LCD, UCM connection menu)
+ {1812,255, "Config update failed"}, (LCD, Pingan login warning windonw)
+ {1813,255, "Login In Progress"}, (LCD, Pingan login warning windonw)
+ {1814,32, "No number configured"}, (Dial softkey on Contact Detail)
+ {1815,64, "Select sort option"}, (Sort on phonebook)
+ {1816,32, "Edit"}, (Softkey on Group interface)
+ {1817,32, "No groups available"}, (Display when no default groups exist)
+ {1818,64, "No phonebook records found"}, (Display when no records or search is nothing)
+ {1819,32, "Time"}, (Label in Call History)
+ {1820,32, "Duration"}, (Label in Call History)
+ {1821,32, "Number"}, (Label in Call History)
+ {1822,255, "Network Config"}, (LCD, network in main menu for avaya)
+ {1823,32, "Are you sure you want to reset Vlan configuration?" } (LCD, confirm Reset Vlan message)
+ {1824,32, "Abort. All Vlan configuration are already in its default values." } (LCD, abort vlan reset)
+ {1825,32, "Reset vlan configuration to default values." } (LCD, reset vlan tip)
+ {1826,32, "Account Status" } (LCD, Menu Page)
+ {1827,32, "System Information" } (LCD, Menu Page)
+ {1828,32, "Are you sure you want to reboot the device now?" } (LCD, Reboot message)
+ {1829,32, "Start Provision" } (LCD, Provision message)
+ {1830,32, "Are you sure you want to start provision now?" } (LCD, Provision message)
+ {1831,32, "Select" } (LCD, Menu Softkey)
+ {1832,32, "Check" } (LCD, Menu Softkey)
+ {1833,32, "Uncheck" } (LCD, Menu Softkey)
+ {1834,32, "Dismiss" } (LCD, Menu Softkey)
+ {1835,32, "Submit" } (LCD, Menu Softkey)
+ {1836,32, "Are you sure you want to perform the factory reset?" } (LCD, Factory reset message)
+ {1837,32, "LCD on/off" } (LCD, Factory function page)
+ {1838,32, "LCD Diagnostic" } (LCD, Factory function page)
+ {1839,32, "Sounds" } (LCD, Preference page)
+ {1840,32, "Appearance" } (LCD, Preference page)
+ {1841,32, "Active LCD Brightness" } (LCD, Preference page)
+ {1842,32, "Idle LCD Brightness" } (LCD, Preference page)
+ {1843,32, "Hardware" } (LCD, Status page)
+ {1844,32, "Bluetooth" } (LCD, System page)
+ {1845,32, "Operations" } (LCD, System page)
+ {1846,32, "System Configurations" } (LCD, System page)
+ {1847,32, "Phone Settings" } (LCD, Phone page)
+ {1848,32, "Static IP Settings" } (LCD, Network page)
+ {1849,32, "Perform factory reset will erase all the configuration/settings on this device." } (LCD, System page)
+ {1850,32, "Rescan" } (LCD, Bluetooth softkey)
+ {1851,32, "Pair" } (LCD, Bluetooth softkey)
+ {1852,32, "Unpair" } (LCD, Bluetooth softkey)
+ {1853,32, "Disconnect" } (LCD, Bluetooth softkey)
+ {1854,32, "Power" } (LCD, Bluetooth page)
+ {1855,32, "Start Scan" } (LCD, Bluetooth page)
+ {1856,32, "Discoverable" } (LCD, Bluetooth page)
+ {1857,32, "On" } (LCD, Bluetooth page)
+ {1858,32, "Off" } (LCD, Bluetooth page)
+ {1859,32, "Bluetooth Scan" } (LCD, Bluetooth page)
+ {1860,32, "Phone" } (LCD, Menu page)
+ {1861,32, "System" } (LCD, Menu page)
+ {1862,32, "Messages" } (LCD, Menu page)
+ {1863,32, "Account, Network and System Information" } (LCD, Menu page)
+ {1864,32, "SIP Configuration and Call Features" } (LCD, Menu page)
+ {1865,32, "Connections, Provision Settings and Factory Functions" } (LCD, Menu page)
+ {1866,32, "View and Manage Call History" } (LCD, Menu page)
+ {1867,32, "Local, LDAP and Broadsoft Phonebooks and Groups" } (LCD, Menu page)
+ {1868,32, "Display and Sound Settings" } (LCD, Menu page)
+ {1869,32, "Instant Messages and Voicemails" } (LCD, Menu page)
+ {1870,32, "Please use provided 12V power adapter." } (LCD, power popup )
+ {1871,32, "Downloading firmware file" } (LCD, Provision message)
+ {1872,32, "Validating firmware file" } (LCD, Provision message)
+ {1873,32, "Provision is still running, please retry later." } (LCD, Provision message)
+ {1874,32, "PreConf"}, (Softkey, before call made for conference)
+ {1875,32, "Connect" } (LCD, Bluetooth page)
+ {1876,32, "Save Settings and Reboot Device" } (LCD, Menu page)
+ {1877,32, "Favorite" } (LCD, Phonebook page)
+ {1878,32, "Disable Caller ID" } (CLCD, Call Features)
+ {1879,32, "Caller ID Disabled" } (CLCD, Call Features)
+ {1880,32, "Enable Caller ID" } (CLCD, Call Features)
+ {1881,32, "Caller ID Enabled" } (CLCD, Call Features)
+ {1882,32, "Disable All Call Waiting" } (CLCD, Call Features)
+ {1883,32, "All Call Waiting has been disabled" } (CLCD, Call Features)
+ {1884,32, "Enable All Call Waiting" } (CLCD, Call Features)
+ {1885,32, "All Call Waiting has been enabled" } (CLCD, Call Features)
+ {1886,32, "Call with Caller ID Blocked" } (CLCD, Call Features)
+ {1887,32, "Caller ID has been blocked" } (CLCD, Call Features, NO NEED)
+ {1888,32, "Call with Caller ID Enabled" } (CLCD, Call Features)
+ {1889,32, "Caller ID has been sent" } (CLCD, Call Features, NO NEED)
+ {1890,32, "Call with Call Waiting Disabled" } (CLCD, Call Features)
+ {1891,32, "Call Waiting has been disabled" } (CLCD, Call Features, NO NEED)
+ {1892,32, "Call with Call Waiting Enabled" } (CLCD, Call Features)
+ {1893,32, "Call Waiting has been enabled" } (CLCD, Call Features, NO NEED)
+ {1894,32, "Set All Call Forward" } (CLCD, Call Features)
+ {1895,32, "Cancel All Call Forward" } (CLCD, Call Features)
+ {1896,32, "All Call Forward has been Cancelled" } (CLCD, Call Features)
+ {1897,32, "Set Busy Call Forward" } (CLCD, Call Features)
+ {1898,32, "Cancel Busy Call Forward" } (CLCD, Call Features)
+ {1899,32, "Busy Call Forward has been Cancelled" } (CLCD, Call Features)
+ {1900,32, "Set No Answer Call Forward" } (CLCD, Call Features)
+ {1901,32, "Cancel No Answer Call Forward" } (CLCD, Call Features)
+ {1902,32, "No Answer Call Forward has been Cancelled" } (CLCD, Call Features)
+ {1903,32, "Dialing" } (CLCD, Call Screen)
+ {1904,32, "Paging" } (CLCD, Call Screen)
+ {1905,32, "Quick IP Dialing" } (CLCD, Call Screen)
+ {1906,32, "Overview" } (CLCD, Call Screen Command Tag)
+ {1907,32, "Lines" } (CLCD, Call Screen Command Tag)
+ {1908,32, "DTMF" } (CLCD, Call Screen Tabs)
+ {1909,32, "INFO" } (CLCD, Call Screen Tabs - Information)
+ {1910,32, "CONF" } (CLCD, Call Screen Tabs - Conference)
+ {1911,32, "STATUS" } (CLCD, Call Screen Tabs - Status)
+ {1912,32, "BT On" } (Bluetooth softkey)
+ {1913,32, "BT Off" } (Bluetooth softkey)
+ {1914,32, "System Report" } (CLCD, CSS crash message)
+ {1915,255, "No Extension Available"}, (LCD, warning window for UCM)
+ {1916,255, "Pick Extension Timeout"}, (LCD, warning window for UCM)
+ {1917,255, "Pick Extension Disabled"}, (LCD, warning window for UCM)
+ {1918,255, "Number Assigned Already"}, (LCD, warning window for UCM)
+ {1919,255, "Number Not Existing"}, (LCD, warning window for UCM)
+ {1920,255, "Account out of Range"}, (LCD, warning window for UCM)
+ {1921,255, "Assign Userlist Disabled"}, (LCD, warning window for UCM)
+ {1922,255, "Level"}, (LCD, preference volume menu )
+ {1923,255, "Confirm Logout?"}, (LCD, Avaya auto login feature)
+ {1924,255, "Public Mode Logout After"}, (LCD, auto logout for public mode)
+ {1925,255, "Invalid Expiration Time"}, (LCD, auto logout for public mode)
+ {1926,255, "Add to N-Way Call"}, (CLCD, Call Screen N WAY Title)
+ {1927,255, "Select a line to join the current N-Way Call"}, (CLCD, Call Screen N WAY MSG)
+ {1928,255, "Are you sure you want to reload the current screen?"}, (CLCD, Reload Screen Confirm)
+ {1929,255, "The change(s) has not yet been saved."}, (CLCD, Unsaved change message)
+ {1930,255, "You have reached the maximum allowed G729" }, (LCD, warning window on pressing conf key)
+ {1931,255, "Broadsoft Executive Assistant" }, (CLCD, Menu title)
+ {1932,255, "BS-Exec" }, (CLCD, Home screen SK )
+ {1933,255, "Executive Filtering" },
+ {1934,255, "Executive-Assistant Divert" },
+ {1935,255, "Executive-Assistant Divert Address" },
+ {1936,255, "Executive-Assistant Filtering" },
+ {1937,32, "Paired" } (CLCD, Bluetooth Status)
+ {1938,32, "Unpaired" } (CLCD, Bluetooth Status)
+ {1939,32, "Disconnected" } (CLCD, Bluetooth Status)
+ {1940,32, "Connected" } (CLCD, Bluetooth Status)
+ {1941,32, "Devices" } (CLCD, Bluetooth Container Title)
+ {1942,32, "Bluetooth Phonebook"} (LCD, Menu)
+ {1943,32, "Local Call Log"}, (LCD, Color Sub Menu)
+ {1944,255, "parked at"}, (LCD, Callpark message)
+ {1945,32, "Paired devices"} (LCD, Menu)
+ {1946,32, "Reading contact file"}, (LCD, Menu)
+ {1947,32, "Lock"}, (CLCD, BS Flexible Seating)
+ {1948,32, "Unlock"}, (CLCD, BS Flexible Seating)
+ {1949,32, "Locked"}, (CLCD, BS Flexible Seating)
+ {1950,32, "Unlocked"}, (CLCD, BS Flexible Seating)
+ {1951,255, "Flexible Seating"}, (CLCD, BS Flexible Seating)
+ {1952,32, "Enter PIN"}, (CLCD, BS Flexible Seating)
+ {1953,255, "Invalid PIN entered."} (CLCD, BS Flexible Seating)
+ {1954,255, "SWAP"}, (CLCD, HF Line Softkey label)
+ {1955,255, "Auto Language Download"},
+ {1956,255, "Server URL"},
+ {1957,255, "File Name"},
+ {1958,32, "Email"} (LCD, Menu)
+ {1959,32, "Street"} (LCD, Menu)
+ {1960,32, "City"} (LCD, Menu)
+ {1961,32, "Postal Code"} (LCD, Menu)
+ {1962,32, "Country"} (LCD, Menu)
+ {1963,255, "The Bluetooth is disconnected"}
+ {1964,255, "ExactMatch"}
+ {1965,255, "QuickMatch"}
+ {1966,255, "Display Name" } (LCD, UC-One)
+ {1967,255, "Extension" } (LCD, UC-One)
+ {1968,255, "Conference Number" } (LCD, UC-One)
+ {1969,255, "Web URL" } (LCD, UC-One)
+ {1970,255, "Conference Pin" } (LCD, UC-One)
+ {1971,255, "MyStatus" } (LCD, UC-One)
+ {1972,255, "Invisible" } (LCD, UC-One)
+ {1973,255, "Bluetooth status" } (CLCD, Bluetooth Status)
+ {1974,255, "Bluetooth setting" } (CLCD, Bluetooth Status)
+ {1975,255, "Bluetooth MAC" } (CLCD, Bluetooth Status)
+ {1976,255, "Broadsoft IM&P Client has been disconnected" } (CLCD, UC-One)
+ {1977,255, "Download all the new release files for this language ?"} (CLCD, Language download message)
+ {1978,255, "Download and go back to this version ?"} (CLCD, Language download message)
+ {1979,255, "Already have all these language files in local, download all again ?"} (CLCD, Language download message)
+ {1980,255, "Start to download this file ?"} (CLCD, Language download message)
+ {1981,255, "New release"} (CLCD, Language download message)
+ {1982,255, "Old release"} (CLCD, Language download message)
+ {1983,255, "There is no language file available to download."} (CLCD, Language download message)
+ {1984,255, "Language Download"} (CLCD, Language download message)
+ {1985,255, "Other language files downloading. Please try it later."} (CLCD, Language download message)
+ {1986,255, "No Available Item"} (CLCD, Container String)
+ {1987,255, "Language and Input"} (CLCD, Input Mode)
+ {1988,255, "Default Input Selection"} (CLCD, Input Mode)
+ {1989,255, "Multi-Tap"} (CLCD, Input Multi-Tap Mode)
+ {1990,255, "Shiftable"} (CLCD, Input Shiftable Mode)
+ {1991,255, "Up-to-date"} (CLCD, Language download message)
+ {1992,255, "XML download failed. Please check language download setting."} (CLCD, Language download message)
+ {1993,255, "Search Mode"} (CLCD, Phone book search default)
+ {1994,255, "Extension"} (CLCD, Broadsoft Directory)
+ {1995,255, "XML URL"} (CLCD, Language setting message)
+ {1996,255, "XML file is downloading...."} (CLCD, Language setting message)
+ {1997,255, "Searching for last connected hands free device" } (CLCD, Bluetooth Status)
+ {1998,255, "Cannot connect with the device. Do you want to go to Bluetooth scan page?" } (CLCD, Bluetooth Status)
+ {1999,255, "Screensaver" } (CLCD, Menu option appearance)
+ {2000,255, "Screensaver Timeout" } (CLCD, Menu option appearance)
+ {2001,32,  "Phonebook" } (Softkey)
+ {2002,32,  "Broadsoft IM&P contact list has been updated" }
+ {2003,255, "Hands free device is not connected" } (CLCD, Bluetooth Status)
+ {2004,32,  "Headset is in use" } (CLCD, Bluetooth Status)
+ {2005,32,  "Placed Calls" } (CLCD, Default Broadsoft Directory Name)
+ {2006,32,  "Received Calls" } (CLCD, Default Broadsoft Directory Name)
+ {2007,32,  "Group Directory" } (CLCD, Default Broadsoft Directory Name)
+ {2008,32,  "Enterprise Directory" } (CLCD, Default Broadsoft Directory Name)
+ {2009,32,  "Group Common" } (CLCD, Default Broadsoft Directory Name)
+ {2010,32,  "Enterprise Common" } (CLCD, Default Broadsoft Directory Name)
+ {2011,32,  "Personal Directory" } (CLCD, Default Broadsoft Directory Name)
+ {2012,255, "Not support second hands free dial" } (Handsfree popup)
+ {2013,255, "Date Time"}, (LCD, date and time)
+ {2014,255, "Set Current Time Manually"}, (LCD, set current time manually)
+ {2015,255, "NTP Server"}, (LCD, set current time manually)
+ {2016,255, "Executive IP Phone" }
+ {2017,255, "Conference Room" } (CLCD, Conference Info)
+ {2018,255, "Participants" } (CLCD, Conference Info)
+ {2019,255, "ConfRoom" } (CLCD, Conference Info Softkey)
+ {2020,255, "has joined" } (CLCD, Conference Info Update)
+ {2021,255, "has left" } (CLCD, Conference Info Update)
+ {2022,255, "BS-IM&P" } (UC-One Feature Softkey)
+ {2023,255, "Multicast" } (MPK Mode SOftkey)
+ {2024,255, "Record" } (MPK MOde Softkey)
+ {2025,255, "Security Pin" } (LCD, UC-One)
+ {2026,255, "DialDTMF" } (LCD, UC-One)
+ {2027,255, "Dialing failed" } (LCD, Bluetooth)
+ {2028,255, "Hands free dialing is in progress" } (LCD, Bluetooth)
+ {2029,255, "Please Login First"}
+ {2030,255, "Login is still in process"}
+ {2031,255, "Blank" }
+ {2032,255, "IP Geographic Information" }
+ {2033,255, "Attempt remaining"},(LCD, warning window for star keypad lock)
+ {2034,255, "Unable to try for"},(LCD, warning window for star keypad lock)
+ {2035,32,  "CallingSIP" } (Conference call option)
+ {2036,32,  "CallingHF" } (Conference call option)
+ {2037,32,  "SwitchAcct" } (Conference call option)
+ {2038,32,  "Failed to parse XML file" } (UCMDetect module)
+ {2039,32,  "Recording is configured with USB. Please plug in a USB drive or change your configuration." }
+ {2040,32,  "Recording on UCM." }
+ {2041,32,  "Recording locally." }
+ {2042,32,  "Features" }
+ {2043,32,  "ConfMenu" }
+ {2044,32,  "Invite User" }
+ {2045,32,  "Dial User" }
+ {2046,32,  "Bridge Conference" }
+ {2047,32,  "UnBridge All" }
+ {2048,32,  "Option" }
+ {2049,32,  "Conference Menu" }
+ {2050,32,  "Hands Free Account" }
+ {2051,255, "Do you want to disconnect the current device and try to connect with the hands free device?" }
+ {2052,255, "XML download still pending. Please try again later." }
+ {2053,255, "SP-Active" } (Softkey Label)
+ {2054,255, "Input User Manually"} (UCMDetect module, user list view)
+ {2055,255, "User to Select"} (UCMDetect module, selection view)
+ {2056,255, "Account to Apply"} (UCMDetect module, selection view)
+ {2057,255, "Invalid User ID"} (UCMDetect module, warning window)
+ {2058,255, "Select Server from Network"} (UCMDetect module, server list view)
+ {2059,255, "Select User ID"} (UCMDetect module, user list view)
+ {2060,255, "UCM Detect"} (Menu option for UCMDetect module)
+ {2061,255, "Language Update"} (Autolanguage update app)
+ {2062,255, "Meet-Me ID" } (CEI/CCM Menu Option)
+ {2063,255, "Kick" } (CEI/CCM Menu Option)
+ {2064,255, "Kick All" } (CEI/CCM Menu Option)
+ {2065,255, "Mute" } (CEI/CCM Menu Option)
+ {2066,255, "Mute All" } (CEI/CCM Menu Option)
+ {2067,255, "Unmute" } (CEI/CCM Menu Option)
+ {2068,255, "Unmute All" } (CEI/CCM Menu Option)
+ {2069,255, "Lock" } (CEI/CCM Menu Option)
+ {2070,255, "Unlock" } (CEI/CCM Menu Option)
+ {2071,255, "Prompt" } (CEI/CCM Menu Option)
+ {2072,255, "Handsfree device cannot be put on hold"}
+ {2073,255, "Handsfree device ignores on hold request"}
+ {2074,255, "Handsfree device ignores the redial request"}
+ {2075,255, "Please check configuration"}
+ {2076,255, "Run out of resources"}
+ {2077,255, "Invalid permission" } (Menu Access Mode Changed Warning Window)
+ {2078,32, "RECORD" } (GXP16XX Key Name)
+ {2079,255, "Description"}
+ {2080,255, "Value"}
+ {2081,255, "Diverted From "} (Call Screen Info)
+ {2082,255, "HOME" } (This is used for the 16xx diagnostic mode to print HOME. Required because it has to be "Main Page" in other languages)
+ {2083,255, "Certificate Verification Fail"}
+ {2084,255, "Certificate Verification Pass"}
+ {2085,255, "Certificate Verification"}
+ {2086,255, "Remote"}
+ {2087,32, "Call with Dialed Number Hidden" } (CLCD, Call Features)
+ {2088,255, "Unknown Contact" } (LCD, Broadsoft IM&P)
+ {2089,255, "Broadsoft Xsi" } (LCD, Broadsoft Xsi)
+ {2090,255, "Xsi User Service"}
+ {2091,255, "Remote Office"}
+ {2092,255, "Remote Number"}
+ {2093,255, "BroadWorks Anywhere"}
+ {2094,255, "Simultaneous Ring"}
+ {2095,255, "Caller ID Blocking"}
+ {2096,255, "Call Forwarding"}
+ {2097,255, "Do Not Disturb"}
+ {2098,255, "Alert for Click-to-Dial"}
+ {2099,255, "Alert for Group Paging"}
+ {2100,255, "Forwarding Always"}
+ {2101,255, "Forwarding Busy"}
+ {2102,255, "Forwarding No Answer"}
+ {2103,255, "Forwarding Number"}
+ {2104,255, "Enable RingSplash"}
+ {2105,255, "New Location"}
+ {2106,255, "Enable Location"}
+ {2107,255, "Outbound Number"}
+ {2108,255, "Diversion Inhibitor"}
+ {2109,255, "Answer Confirmation"}
+ {2110,255, "Control service"}
+ {2111,255, "Updating"}
+ {2112,255, "Block Ring"}
+ {2113,255, "Ring Record"}
+ {2114,255, "NO of Rings"}
+ {2115,255, "Invalid Number"}
+ {2116,255, "Need A Number"}
+ {2117,255, "Answered"}
+ {2118,255, "Dialed"}
+ {2119,255, "Missed"}
+ {2120,255, "Transferred"}
+ {2121,32,  "Please check filters" } (LDAP module, warning window)
+ {2122,255, "Cannot bind: Please check protocol" } (LDAP module, warning window)
+ {2123,255, "Broadsoft Only"}
+ {2124,255, "Select Search Scope"}
+ {2125,255, "Selected Contact is Deleted, re-searching"}
+ {2126,255, "SearchAll"}
+ {2127,255, "All Contacts"}
+ {2128,32,  "Trnf>VM"}
+ {2129,255, "Monitored Call Park"}
+ {2130,255, "Verifying"}
+ {2131,255, "Bluetooth name"}
+ {2132,255, "Bluetooth PinCode"}
+ {2133,255, "Handsfree mode"}
+ {2134,255, "Detect/connect UCM server to process auto-provision"}
+ {2135,255, "Pairing"}
+ {2136,255, "Connecting"}
+ {2137,255, "Pair Request From"}
+ {2138,255, "Select User to Kick from Conference" } (Conference Kick)
+ {2139,32,  "BLFPickup" } (HomeModule softkey)
+ {2140,32,  "is calling" } (FeatureModule display)
+ {2141,32,  "Bluetooth is in used" } (BluetoothApp popup)
+ {2142,32,  "Config Upgrade Via" }
+ {2143,32,  "Firmware Upgrade Via" }
+ {2144,255, "Local Call Log"}
+ {2145,32,  "System Status"}
+ {2146,255, "Self-defined Firmware Server"}
+ {2147,255, "DHCP Opt43/66 Override FW"}
+ {2148,255, "3CX Auto Provision"}
+ {2149,255, "Confirm to delete custom SCR?"}
+ {2150,32,  "Security"}
+ {2151,255, "Config via Keypad Menu"}
+ {2152,255, "Web Access Mode"}
+ {2153,255, "Disable SSH"}
+ {2154,32,  "IPv4 Settings"}
+ {2155,255, "DHCP Settings"}
+ {2156,255, "Vendor Class ID(Option 60)"}
+ {2157,255, "PC Port Settings"}
+ {2158,255, "OpenVPN Settings"}
+ {2159,255, "IPv6 Settings"}
+ {2160,255, "Host Name(Option 12)"}
+ {2161,255, "PC Port VLAN Tag"}
+ {2162,255, "PC Port Priority Value"}
+ {2163,255, "OpenVPN Port"}
+ {2164,255, "OpenVPN Transport"}
+ {2165,255, "OpenVPN: Enabled"}
+ {2166,255, "Lines enabled for G729: "}
+ {2167,255, "Preferred DNS Server"}
+ {2168,255, "Language"}
+ {2169,255, "DHCP Opt43/66 Override FW"}
+ {2170,255, "3CX Auto Provision"}
+ {2171,32,  "Do not power off the phone" }
+ {2172,32,  "NOT REGISTERED" }
+ {2173,32, "Conf" }
+ {2174,32, "No Available Line" }
+ {2175,32, "NO LAN CABLE" }
+ {2176,32, "NO ACCOUNT VALID" }
+ {2177,32, "INTERNET DOWN" }
+ {2178,32,  "Maximum 5-way Conference" }
+ {2179,32,  "Contact" } (LCD, View Contact)
+ {2180,32,  "Title" } (LCD, Contact: Title)
+ {2181,32,  "Primary" } (LCD, Contact: Primary)
+ {2182,255, "has been bridged" } (CLCD, Conference Info Update)
+ {2183,255, "has been unbridged" } (CLCD, Conference Info Update)
+ {2184,255, "has been muted" } (CLCD, Conference Info Update)
+ {2185,255, "has been unmuted" } (CLCD, Conference Info Update)
+ {2186,32,  "Toggle" } (LCD, Option Toggle)
+ {2187,255, "Reached Maximum G729" } (LCD, warning window on pressing conf key)
+ {2188,32,  "Company"} (LCD, Contact: Company)
+ {2189,32,  "Job"} (LCD, Contact: Job)

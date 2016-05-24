@@ -1,0 +1,63 @@
+ {128,18, "Sun"},
+ {129,18, "Mon"},
+ {130,18, "Tue"},
+ {131,18, "Wed"},
+ {132,18, "Thu"},
+ {133,18, "Fri"},
+ {134,18, "Sat"},
+ {135,18, "Jan "},
+ {136,18, "Feb "},
+ {137,18, "Mar "},
+ {138,18, "Apr "},
+ {139,18, "May "},
+ {140,18, "June "},
+ {141,18, "July "},
+ {142,18, "Aug "},
+ {143,18, "Sept "},
+ {144,18, "Oct "},
+ {145,18, "Nov "},
+ {146,18, "Dec "},
+ {326,255, "NTP"},
+ {584,22, "DIAL OR SELECT LINE"},
+ {589,22, "SELECT LINE TO CONF"},
+ {684,16,  "Missed"},
+ {685,16,  "FwdAll"},
+ {686,16,  "BkSp"},
+ {687,16,  "CnclFw"},
+ {688,16,  "More"},
+ {692,16,  "CallRtn"},
+ {693,16,  "Dial"},
+ {694,16,  "Clear"},
+ {695,16,  "Return"},
+ {703,16,  "Answer"},
+ {704,16,  "Reject"},
+ {738,255, "PgUp"},
+ {739,255, "PgDn"}, 
+ {1054,18, "NextScr"},
+ {1295,32,  "Cancel All Forward"}, 
+ {1296,32,  "Cancel Busy Forward"}, 
+ {1297,32,  "Cancel No Answer Fwd"}, 
+ {1322,32, "VMsg"},
+ {1372,32, "Forward"},  
+ {1379,32, "Voicemail UserID required"} (LCD MENU, Voicemails warning msg)
+ {1389,32, "Confirm to factory reset?"} (LCD, Menu factory reset)
+ {1390,32, "Confirm to continue?"} (LCD, Menu factory reset level2)
+ {1393,32, "Reboot now?" } (LCD, Reboot for configuration changes) 
+ {1439,32, "Tag must be 0 ~ 4095"} (LCD, Warning message for invalid 802.1 tag)
+ {1441,32, "Tag must be non zero"} (LCD, Warning messafe for 802.1 priority without tag)
+ {1515,32, "%s DIAL"} (LCD, CallStatus String: DIALING %s as Account)
+ {1516,32, "CALL %s"} (LCD, CallStatus String: RINGING %s as calling number)
+ {1517,32, "%s CALL"} (LCD, CallStatus String: CALLING %s as calling number)
+ {1518,32, "%s"} (LCD, CallStatus String: CONNECTED %s as calling number)
+ {1525,32, "Dial number OR select line"} (LCD, Callscreen strings)
+ {1529,32, "Disable Call Waiting All"} (LCD, call feature, *50) 
+ {1530,32, "Enable Call Waiting All"} (LCD, call feature, *51) 
+ {1549,32, "Fwded"} (Softkey, Softkey for Forwaded CallLog)
+ {1685,32, "File doesn't exist"}, (Web, Basic Setting Page)
+ {1739,255, "Checking upgrade"}, (LCD, TR069 MENU warning message)
+ {1785,255, "Unlock remaining: %s"},(LCD, warning window for star keypad lock)
+ {1786,255, "Cannot unlock for %s min"},(LCD, warning window for star keypad lock)
+ {1796,255, "Connect to UCM server"}, (LCD, warning window on connecting to ucm server)
+ {1797,255, "Provision Req. Succeed"}, (LCD, inside UCM connection menu)
+ {1807,255, "Request new configuration"}, (LCD, UCM connection menu)
+ {1077,32, "Apply new configuration"},

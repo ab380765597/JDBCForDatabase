@@ -1,0 +1,4 @@
+{en},
+ {English},
+ INDEX  MAX LENGTH  STRING
+ {150,255, "超文本链接协议"},
